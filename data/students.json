@@ -1,0 +1,5872 @@
+[
+  {
+    "id": "38c4d31b533254576a6e",
+    "studentId": "22934",
+    "name": "NUR ALIA MAISARAH BINTI MOHD RASHID",
+    "programme": "BSN",
+    "roomNumber": "HC-101-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0fbe1e225e6895b747ec",
+    "studentId": "20912",
+    "name": "NOR FATIHAH SHAH BINTI ARIFIN",
+    "programme": "DIN",
+    "roomNumber": "HC-102-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "292114552bf093f2a687",
+    "studentId": "20826",
+    "name": "NUR FARIZAH BINTI ELING",
+    "programme": "DIN",
+    "roomNumber": "HC-102-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a2da39092531532dbb6e",
+    "studentId": "20905",
+    "name": "HAZELYN GRACE RAMOS SEMACIO",
+    "programme": "DCA",
+    "roomNumber": "HC-103-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "cd159b649f0c152182a1",
+    "studentId": "20796",
+    "name": "HANNAH  GRACE RAMOS SEMACIO",
+    "programme": "DIN",
+    "roomNumber": "HC-103-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "f13468e31006abdb3e04",
+    "studentId": "21582",
+    "name": "RAJA NURZULAIKHA BIINTI RAJA MOHD KHAIRUDDIN SHAH",
+    "programme": "DIN",
+    "roomNumber": "HC-104-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b2f5a65ddf8b4b65be5b",
+    "studentId": "20846",
+    "name": "NUR SYAZWANI BINTI MURAD",
+    "programme": "DIN",
+    "roomNumber": "HC-104-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6281fdd395abac5378a9",
+    "studentId": "21078",
+    "name": "SAIDATUL AFIFAH BT BADARIDDIN",
+    "programme": "DCA",
+    "roomNumber": "HC-105-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b153d1e731dc3e313312",
+    "studentId": "22230",
+    "name": "NUR NAJWA IZZATY BINTI MOHD IZZAT",
+    "programme": "FIB",
+    "roomNumber": "HC-105-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "20535acdca301e575d43",
+    "studentId": "20857",
+    "name": "SASWANIATUL HUSNA BINTI SANDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-106-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6153fd7100f38547afd4",
+    "studentId": "20845",
+    "name": "IZZAH INSYIRAH BINTI MOHD KAMDI",
+    "programme": "DIN",
+    "roomNumber": "HC-106-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "4aa895524cd8169a4dc9",
+    "studentId": "20858",
+    "name": "SITI NURFAEZAH BINTI SHAIFOL ANUAR",
+    "programme": "DIN",
+    "roomNumber": "HC-107-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "68e44c3158ee4a87be12",
+    "studentId": "20815",
+    "name": "NORSHUIDAH BINTI KAMARUDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-107-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "4234c6dc940142ce5500",
+    "studentId": "20799",
+    "name": "SARVINAH A/P CHITAMBARAM",
+    "programme": "DIN",
+    "roomNumber": "HC-108-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3d16a5e20f05c697ee0c",
+    "studentId": "23048",
+    "name": "VARSHEENY A/P KUMARAVELLU",
+    "programme": "DIN",
+    "roomNumber": "HC-108-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "4f868970ee9e09fcbdb7",
+    "studentId": "21034",
+    "name": "NURUL AINA BINTI MOHD MEZELAN",
+    "programme": "DIN",
+    "roomNumber": "HC-109-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "14b8e532f3daa3e038c1",
+    "studentId": "20825",
+    "name": "NUR SYAMIMI AQILA BINTI RAMLI",
+    "programme": "DIN",
+    "roomNumber": "HC-109-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "95a291d1895250cddf96",
+    "studentId": "20885",
+    "name": "LOR QIN CHIN",
+    "programme": "DIN",
+    "roomNumber": "HC-110-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0d0c1f9a3fc35cf5cf09",
+    "studentId": "23095",
+    "name": "HALLEY GRACE RAMOS SEMACIO",
+    "programme": "DAIR",
+    "roomNumber": "HC-110-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "1dc4a202caf726505f76",
+    "studentId": "20641",
+    "name": "NUR HIJRIAH BINTI MAINOL",
+    "programme": "DIN",
+    "roomNumber": "HC-111-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b01982685345f3e893e6",
+    "studentId": "20645",
+    "name": "NUR FATIN SYAHIRA  BINTI MOHD NIZAR",
+    "programme": "DIN",
+    "roomNumber": "HC-111-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1ca886ac770557f75cd6",
+    "studentId": "20847",
+    "name": "NURUL AINA BINTI ABDUL RASHID",
+    "programme": "DIN",
+    "roomNumber": "HC-112-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d6be3361adda1a2a42db",
+    "studentId": "21716",
+    "name": "NURUL NAJIHAH BINTI ISMAIL",
+    "programme": "DCA",
+    "roomNumber": "HC-112-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "13797c653e689338a551",
+    "studentId": "20648",
+    "name": "NUR ELZA DIANA  BINTI JALANI",
+    "programme": "DIN",
+    "roomNumber": "HC-113-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7de3c64dbbb6c8f9d201",
+    "studentId": "20646",
+    "name": "SHARINAA  BINTI MUHAMMAD SURIN",
+    "programme": "DIN",
+    "roomNumber": "HC-113-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "35dda362e698fa8f4fcf",
+    "studentId": "20853",
+    "name": "NURUL INSYIRAH  BINTI SUHAIRI",
+    "programme": "DIN",
+    "roomNumber": "HC-114-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7bdc10f115446f24d666",
+    "studentId": "21835",
+    "name": "NURUL JAMILAH BINTI YUSUFF",
+    "programme": "DIN",
+    "roomNumber": "HC-114-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "011afe8c2a31f17ff8db",
+    "studentId": "20643",
+    "name": "NUR SYAZANA BINTI AZHAR",
+    "programme": "DIN",
+    "roomNumber": "HC-115-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b1709c0be658fc148218",
+    "studentId": "20752",
+    "name": "NUR ADILA BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HC-115-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3f1f1ddc510e2d5d82dd",
+    "studentId": "20843",
+    "name": "NUR SHAFIQAH BINTI SHAMSUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-116-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "31817c73728dc4c558c8",
+    "studentId": "20975",
+    "name": "NURUL BALQIS BINTI MOHD FAZIL",
+    "programme": "DIN",
+    "roomNumber": "HC-116-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0dd9dd94731ab9fbb725",
+    "studentId": "21756",
+    "name": "NUR FARAH WAHIDA BINTI TUGIMAN",
+    "programme": "DIN",
+    "roomNumber": "HC-117-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "86718a80c65cbe93908e",
+    "studentId": "21757",
+    "name": "AYU NAJIHA BINTI MOHD SAMSUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-117-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "fe84a8e8eb2f52aa5691",
+    "studentId": "20779",
+    "name": "SITI NUR HIDAYAH BINTI HOSNI",
+    "programme": "DIN",
+    "roomNumber": "HC-118-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "34b229bc71ea85514c6e",
+    "studentId": "20781",
+    "name": "SASHMITAA A/P BALAH KRISHNAN",
+    "programme": "DIN",
+    "roomNumber": "HC-118-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1d6d386a0dc6cf62d098",
+    "studentId": "19835",
+    "name": "AIZZA NAZALIA BINTI ZAZARUDIN",
+    "programme": "BBAHR",
+    "roomNumber": "HC-119-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "db8024a76dbcf01466b9",
+    "studentId": "22245",
+    "name": "HEMASHREE A/P MONHRAN",
+    "programme": "BCS",
+    "roomNumber": "HC-120-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a865c37aa3b5ca8260f9",
+    "studentId": "21923",
+    "name": "SHARWESNI A/P KRISHNAN",
+    "programme": "FIS",
+    "roomNumber": "HC-120-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "5d7e5504b561c8f76a80",
+    "studentId": "STAFF",
+    "name": "MOM WORKERS",
+    "programme": "Unknown",
+    "roomNumber": "HC-121-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "045c7900a668241f75ed",
+    "studentId": "20800",
+    "name": "DEEKSHA NAIR A/P DEVAN",
+    "programme": "DCA",
+    "roomNumber": "HC-122-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "de759f2e479b4353dd07",
+    "studentId": "STAFF",
+    "name": "MOM WORKERS",
+    "programme": "Unknown",
+    "roomNumber": "HC-123-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ec8f062ca241eb6f7ee6",
+    "studentId": "20849",
+    "name": "THARISINI A/P ANANTHASELVAM (DIN sponsored - do not stay on campus)",
+    "programme": "DIN",
+    "roomNumber": "HC-124-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a8ac3417d4debde73d8b",
+    "studentId": "STAFF",
+    "name": "MOM WORKERS",
+    "programme": "Unknown",
+    "roomNumber": "HC-126-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "5fdc23e08a8685a4404f",
+    "studentId": "23598",
+    "name": "ELA SAMIHA JANNAT",
+    "programme": "IEP/DAIR",
+    "roomNumber": "HC-201-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "8d1684ae596026999583",
+    "studentId": "23644",
+    "name": "ZAHAN NUSRAT  **STAY FOR 1 MONTH ONLY/CHOI",
+    "programme": "MED",
+    "roomNumber": "HC-201-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "19ea1b2a523deb548e58",
+    "studentId": "20644",
+    "name": "SARVINA A/P KONDAPPAN",
+    "programme": "DIN",
+    "roomNumber": "HC-202-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "2fb8926fd656da791361",
+    "studentId": "21011",
+    "name": "RAJALETCHUMY A/P RUTHRAPATHI",
+    "programme": "DIN",
+    "roomNumber": "HC-202-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b4b4813d1dca11a53077",
+    "studentId": "21004",
+    "name": "REVATHY A/P PAKATHA ARIJINAR",
+    "programme": "DIN",
+    "roomNumber": "HC-203-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "cebe53d516b6edb9effa",
+    "studentId": "21051",
+    "name": "ANNIE BLU DANIEL",
+    "programme": "DIN",
+    "roomNumber": "HC-203-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a4cd67d66b0f2dd0736a",
+    "studentId": "23575",
+    "name": "SANJIDA AKTER",
+    "programme": "BABHM",
+    "roomNumber": "HC-204-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "35bf1ae41032dad1e265",
+    "studentId": "21740",
+    "name": "SHARWINI A/P VIJIAN",
+    "programme": "DIN",
+    "roomNumber": "HC-205-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3ea52be0febfcccb68d5",
+    "studentId": "21939",
+    "name": "TRISHATHA A/P SUGUMARAN",
+    "programme": "DBA",
+    "roomNumber": "HC-205-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ac07fc666b2bf02a452d",
+    "studentId": "20397",
+    "name": "LIM ZHI TIAN",
+    "programme": "DBA",
+    "roomNumber": "HC-206-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "73ce2fc7939d14ae7772",
+    "studentId": "20460",
+    "name": "NGOO MIU LING",
+    "programme": "BABHM",
+    "roomNumber": "HC-206-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "772bd2df3a2c6bede093",
+    "studentId": "21099",
+    "name": "LEE ZI QI (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HC-207-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "435ca4ad003b905b902a",
+    "studentId": "21465",
+    "name": "VERONICA MAGALLANES",
+    "programme": "DIN",
+    "roomNumber": "HC-208-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b7e0d10ca6337ff14cbb",
+    "studentId": "22229",
+    "name": "JENNIFER MAGALLANES",
+    "programme": "DIN",
+    "roomNumber": "HC-208-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0b15059663e281773062",
+    "studentId": "21784",
+    "name": "UMA A/P SIVAM",
+    "programme": "DIN",
+    "roomNumber": "HC-209-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "e0975eba148f1b903294",
+    "studentId": "21894",
+    "name": "PUTERI NUR AFIQAH BINTI MOHD FAIZAL  **defer semester to Jan 2026",
+    "programme": "FIB",
+    "roomNumber": "HC-210-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "81d0b039e4ba32ce58ca",
+    "studentId": "21839",
+    "name": "NUR INTAN HUMAIRA BINTI ISMAIL",
+    "programme": "FIB",
+    "roomNumber": "HC-210-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "4351f9db355ae3c8c86a",
+    "studentId": "21207",
+    "name": "NUR FATIN SYAMIMI BINTI MOHD FAUZI",
+    "programme": "DIN",
+    "roomNumber": "HC-211-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b525f43da63ba1ca00b8",
+    "studentId": "21193",
+    "name": "NUR AYUNI BT MOHD HATTA",
+    "programme": "DIN",
+    "roomNumber": "HC-211-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d047f6e78894a82af412",
+    "studentId": "19039",
+    "name": "MASTURA RAFIDAH",
+    "programme": "BAAF",
+    "roomNumber": "HC-212-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "f7341ab4fe2fe3ac7125",
+    "studentId": "21840",
+    "name": "QISTINA AYUNI BINTI IRRAIN",
+    "programme": "DIN",
+    "roomNumber": "HC-212-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "39b8d033a4f8e8fab13f",
+    "studentId": "20439",
+    "name": "SHARMILA  A/P SARAWANAN",
+    "programme": "BBIOT",
+    "roomNumber": "HC-213-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "dfa205b10c010aea2ea6",
+    "studentId": "22844",
+    "name": "SANJAANA A/P KALITHAS",
+    "programme": "DIN",
+    "roomNumber": "HC-213-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1ac4548487c483a71084",
+    "studentId": "21054",
+    "name": "KIRTIKA INDRIANY A/P SHANKAR",
+    "programme": "DIN",
+    "roomNumber": "HC-214-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "653a23ba24ff1cc2fc70",
+    "studentId": "20824",
+    "name": "THULASI A/P VIJAYAN",
+    "programme": "DIN",
+    "roomNumber": "HC-214-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "45c4b34e975fd3a691f7",
+    "studentId": "22405",
+    "name": "ANIS SHUHADA BINTI MOHD BADRUL HISHAM",
+    "programme": "DIN",
+    "roomNumber": "HC-215-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7e0c1e30b253e3e49254",
+    "studentId": "23025",
+    "name": "NURSYAMIMI ASYIQIN BINTI MOHD SANI",
+    "programme": "DIN",
+    "roomNumber": "HC-215-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ddf395d85c8ad352e992",
+    "studentId": "21610",
+    "name": "PUTERI SHAHERA SUKRI BINTI MD SUKRI",
+    "programme": "DIN",
+    "roomNumber": "HC-216-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "48745c520bdbe98173f0",
+    "studentId": "21041",
+    "name": "NURUL AIN HUSNA BINTI BURHAN",
+    "programme": "DIN",
+    "roomNumber": "HC-216-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "e24b1157ea9c3c6e9d72",
+    "studentId": "23189",
+    "name": "AINA DANILEA BINTI AZMI",
+    "programme": "DIN",
+    "roomNumber": "HC-217-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "f6c0ed6e5b53acecc36b",
+    "studentId": "23263",
+    "name": "ARDIVA NOVIARIZ BINTI HAMZAH",
+    "programme": "DIN",
+    "roomNumber": "HC-217-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "9d561037555178db246e",
+    "studentId": "20823",
+    "name": "NUR JANNATUL FIR DAUSSIAH  BINTI JASARI",
+    "programme": "DIN",
+    "roomNumber": "HC-218-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "24b67fc9b3561b2bf0b4",
+    "studentId": "21013",
+    "name": "NURUL SYAZWANI BINTI MOHD ZIAN",
+    "programme": "DIN",
+    "roomNumber": "HC-218-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "edca29730ac47ae2b68a",
+    "studentId": "21110",
+    "name": "LAVANIA  A/P   RAVINTHARAN  **defer study due to subjects not offered, keep room/choi",
+    "programme": "FIB",
+    "roomNumber": "HC-219-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "32fd66da50e0e12ce2d8",
+    "studentId": "22259",
+    "name": "MAGESHINI A/P NARAYANASAMY",
+    "programme": "BBAHR",
+    "roomNumber": "HC-219-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "350c93dd639cd1ac3b94",
+    "studentId": "23121",
+    "name": "NUR FARHANAH",
+    "programme": "DIN",
+    "roomNumber": "HC-220-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d7f3a138664ac4874043",
+    "studentId": "23120",
+    "name": "WAN NURULDANIA BALQISH BINTI WAN ROSLI",
+    "programme": "DIN",
+    "roomNumber": "HC-220-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ac6f416d25ce23db215b",
+    "studentId": "23243",
+    "name": "NUR MAHFUZAH BINTI MOHD RUJHAN",
+    "programme": "DIN",
+    "roomNumber": "HC-221-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "f3d1f9a668edfd14cb9a",
+    "studentId": "21561",
+    "name": "Nur Wahidah Binti Amir Hamzah",
+    "programme": "DIN",
+    "roomNumber": "HC-222-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "dd81057d4a41b57ba0c1",
+    "studentId": "21414",
+    "name": "GRACE KONG ERN XI",
+    "programme": "DIN",
+    "roomNumber": "HC-222-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "29e2316b82a9ca6e46d5",
+    "studentId": "20348",
+    "name": "CHEW JOE JANE",
+    "programme": "DBA",
+    "roomNumber": "HC-223-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "27fd0c6238503fa0d932",
+    "studentId": "20908",
+    "name": "LEO KAI YAN",
+    "programme": "DCS",
+    "roomNumber": "HC-223-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "dd7a2942ea7638d4d1e5",
+    "studentId": "21202",
+    "name": "HASTIKAH BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HC-224-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "160c5b7e064561286ba6",
+    "studentId": "21208",
+    "name": "FATIN HAZIRAH BINTI SAJALI",
+    "programme": "DIN",
+    "roomNumber": "HC-224-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d6e7c86b8aa82c98543b",
+    "studentId": "23468",
+    "name": "TABAIMUN FAIZA",
+    "programme": "ADAE",
+    "roomNumber": "HC-225-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "03d00a78263f9db90a8b",
+    "studentId": "23328",
+    "name": "UGAAPREYAA PILLAI  **temporarily stay in single due ot health issues/choi 10/10",
+    "programme": "DIT",
+    "roomNumber": "HC-226-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "e2686644f80c86a058e1",
+    "studentId": "22023",
+    "name": "NEHA KHAN",
+    "programme": "BBADM",
+    "roomNumber": "HC-230-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "76013e10576c73303ab8",
+    "studentId": "21837",
+    "name": "DILISHAH A/P PANISELVAM",
+    "programme": "BBIOT",
+    "roomNumber": "HC-401-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1269172780f32d97d431",
+    "studentId": "22661",
+    "name": "VISHALYNEE A/P SIVADASS",
+    "programme": "DIN",
+    "roomNumber": "HC-401-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a9cc06ad476ec78bbe77",
+    "studentId": "20982",
+    "name": "NOUR ASHIKIN BINTI HAZLI",
+    "programme": "DIN",
+    "roomNumber": "HC-402-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "823bcebacb6d1661c314",
+    "studentId": "20981",
+    "name": "NUR AZWA SAFRINA BINTI YUSRI",
+    "programme": "DIN",
+    "roomNumber": "HC-402-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1aa760b697ba5d9699f7",
+    "studentId": "20914",
+    "name": "NOOR DANIELA SOFIYA BINTI MOHD RAZALI",
+    "programme": "DIN",
+    "roomNumber": "HC-403-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "c3a4266219f0b30a0bfa",
+    "studentId": "21005",
+    "name": "HALISH QAIRISHA BINTI MD HELMY",
+    "programme": "DIN",
+    "roomNumber": "HC-403-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "9d1fba4a16841957794c",
+    "studentId": "20921",
+    "name": "NUR DAMIA NAFISAH BINTI NASRI",
+    "programme": "DIN",
+    "roomNumber": "HC-404-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8e2e1c1866a688cbc712",
+    "studentId": "20983",
+    "name": "NUR KHADEEJA ZUHRA BT ZULHAMIDI",
+    "programme": "DIN",
+    "roomNumber": "HC-404-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "00915f35addc13d8fb50",
+    "studentId": "21017",
+    "name": "MANGALA SRI A/P UVARAJA",
+    "programme": "DIN",
+    "roomNumber": "HC-405-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "faca1ebb9a870210d637",
+    "studentId": "21021",
+    "name": "IVANNEESWARI A/P KARNAN",
+    "programme": "DIN",
+    "roomNumber": "HC-405-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d750ba2840091359da3e",
+    "studentId": "22403",
+    "name": "KHUSH TANZIMA HAQUE",
+    "programme": "DAIR",
+    "roomNumber": "HC-406-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "428a1828740ae98919b6",
+    "studentId": "23501",
+    "name": "KANIJ SUBARNA",
+    "programme": "BSB",
+    "roomNumber": "HC-406-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "9fdb9afa1d43878ff25b",
+    "studentId": "20804",
+    "name": "NIK NUR QISTINA BINTI NIK M ANSSARI",
+    "programme": "DIN",
+    "roomNumber": "HC-407-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "84acd98ea99b679ba7a2",
+    "studentId": "21014",
+    "name": "NUR HIDAYAH BINTI OMAR",
+    "programme": "DIN",
+    "roomNumber": "HC-407-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ba8740255dfe0192788b",
+    "studentId": "20877",
+    "name": "KASMIDA",
+    "programme": "DIN",
+    "roomNumber": "HC-408-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "85d9bfa71c1357f834a8",
+    "studentId": "20944",
+    "name": "NURAMIRA SYAHIRA BINTI KHAIRUL SYAHIDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-408-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b87b64771e81edb2fb34",
+    "studentId": "20780",
+    "name": "SITI NUR EMAH BINTI AHMAD AZIZAN",
+    "programme": "DIN",
+    "roomNumber": "HC-409-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "142be6ea37425b7a2825",
+    "studentId": "21739",
+    "name": "PUTERI NURALYAA BINTI ABDUL RAHMAN",
+    "programme": "DIN",
+    "roomNumber": "HC-409-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1598582d05b3777edfe5",
+    "studentId": "20986",
+    "name": "AIN MUSFIRAH BINTI MUSTAFA",
+    "programme": "DIN",
+    "roomNumber": "HC-410-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "09100ef2eaf0c85c7f5f",
+    "studentId": "20977",
+    "name": "NURUL SYAHAIRRA BINTI MOHD SHARIF",
+    "programme": "DIN",
+    "roomNumber": "HC-410-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "08b88801370d7148e63e",
+    "studentId": "20962",
+    "name": "NOR ATHIRAH BINTI CHE ADENAN",
+    "programme": "DIN",
+    "roomNumber": "HC-411-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "91c0b87eb409576b20ee",
+    "studentId": "20965",
+    "name": "SOFIAH SOLEHAH BINTI AHMAD FADZULI",
+    "programme": "DIN",
+    "roomNumber": "HC-411-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "1742eebcb174a9df9aa9",
+    "studentId": "20918",
+    "name": "ROS ADEENA ALLISYA BINTI MOHD ZULKIFLI",
+    "programme": "DIN",
+    "roomNumber": "HC-412-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "70f1cea6fcfa7863cf0c",
+    "studentId": "20998",
+    "name": "SYAFIQAH BALQIS BINTI AZMAN",
+    "programme": "DIN",
+    "roomNumber": "HC-412-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "152d85a675360488c2db",
+    "studentId": "20882",
+    "name": "NUR SYAFIQAH BINTI SUHAIME",
+    "programme": "DIN",
+    "roomNumber": "HC-413-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "2dc831494d42115947ec",
+    "studentId": "21040",
+    "name": "OPERASAY ENJUK",
+    "programme": "DIN",
+    "roomNumber": "HC-413-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "5545b8733e40143d9c0a",
+    "studentId": "20913",
+    "name": "NURFATIN FATIHAH BINTI ZAKARIA",
+    "programme": "DIN",
+    "roomNumber": "HC-414-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6d7650d0420716b93f4e",
+    "studentId": "21774",
+    "name": "NURUL JANNAH BINTI KHAIRUL AZWAN",
+    "programme": "DIN",
+    "roomNumber": "HC-414-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "dc9a0eb58d65998507d0",
+    "studentId": "22114",
+    "name": "THURGA A/P THULASI DASS",
+    "programme": "BBAHR",
+    "roomNumber": "HC-415-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "58bcac9bbce9345d6d8e",
+    "studentId": "22113",
+    "name": "SRI SAARNA A/P RAVI KRISHNAN",
+    "programme": "BBAHR",
+    "roomNumber": "HC-415-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "85b3c0622be7c3e84e07",
+    "studentId": "20937",
+    "name": "NUR FATIN SYAZANI BINTI RASIDI",
+    "programme": "DIN",
+    "roomNumber": "HC-416-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "fc160c92bfb742746bba",
+    "studentId": "20878",
+    "name": "HARYANI BINTI MOHAMAD SAHAR",
+    "programme": "DIN",
+    "roomNumber": "HC-416-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8b8780b2c04a32824129",
+    "studentId": "22031",
+    "name": "NAVINAH A/P SUNDERA MURTHY",
+    "programme": "DBA",
+    "roomNumber": "HC-417-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "2e1301a1fba72a908faf",
+    "studentId": "21563",
+    "name": "MNAVANESHWARY A/P MANIARASOO",
+    "programme": "DIN",
+    "roomNumber": "HC-417-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "22a9621fe0950ed6bd86",
+    "studentId": "21832",
+    "name": "HIDAYAH SUHAILA FITRI BINTI HAROM",
+    "programme": "DHM",
+    "roomNumber": "HC-418-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b137538ef72361802262",
+    "studentId": "20964",
+    "name": "AIN NAJWA BINTI PADUKA",
+    "programme": "DIN",
+    "roomNumber": "HC-418-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0b866cae473b46adf68a",
+    "studentId": "21052",
+    "name": "FARISSHA BINTI MOHAMED FAIZUL",
+    "programme": "DIN",
+    "roomNumber": "HC-419-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6a89dd7541d763ebf771",
+    "studentId": "21020",
+    "name": "NUR ALIA DAMIA BINTI KHAIRUL RIZAL",
+    "programme": "DIN",
+    "roomNumber": "HC-419-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "578de3db03a525e8cec9",
+    "studentId": "21377",
+    "name": "JEANNETTE LORETTA FERNANDEZ",
+    "programme": "DCS",
+    "roomNumber": "HC-421-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "5b354a5768ccaf07147b",
+    "studentId": "21754",
+    "name": "Joy Anabel Patricia A/P Shubash",
+    "programme": "DIN",
+    "roomNumber": "HC-421-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "2ea0c07d971a29c4efe4",
+    "studentId": "23531",
+    "name": "FARIA AHMED",
+    "programme": "DAIR",
+    "roomNumber": "HC-422-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "726971e4bbd858adc3b0",
+    "studentId": "23359",
+    "name": "TASMIN JAHAN TISHA",
+    "programme": "DAIR",
+    "roomNumber": "HC-422-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "87221a9df36a6f67077c",
+    "studentId": "20842",
+    "name": "NORHANI MUSAHADAH BINTI MD MUSA",
+    "programme": "DIN",
+    "roomNumber": "HC-423-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "c2f504f583b64c63d1bb",
+    "studentId": "21893",
+    "name": "NUR SYAFFIYYAH BINTI SHAHRIN **STUDENT CONTINUE NURSING DEGREE IN NOV",
+    "programme": "FIS",
+    "roomNumber": "HC-423-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "f79336adf5bca999170e",
+    "studentId": "23240",
+    "name": "NURULIMAN BINTI MAT AZIZ",
+    "programme": "DIN",
+    "roomNumber": "HC-424-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "f84ccd6fc96abf89130a",
+    "studentId": "23302",
+    "name": "NURSYIFA HUSNA BINTI YUSRIN",
+    "programme": "FIS",
+    "roomNumber": "HC-424-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "0d687210a9035e8e46a2",
+    "studentId": "21927",
+    "name": "ARWYN NATASHA BINTI NUR HAZRI   **barred by OAR. Did not pay for hostel fee",
+    "programme": "FIS",
+    "roomNumber": "HC-425-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7c4bfa92abf2b43fc94b",
+    "studentId": "23011",
+    "name": "UANHECA CLAIDA JOSSIAS",
+    "programme": "BCS",
+    "roomNumber": "HC-426-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HC"
+  },
+  {
+    "id": "33d7b45e9dc053a244fe",
+    "studentId": "21826",
+    "name": "AIRIEN SYAZRIENA EMELDA BINTI AZUANDY SHAH",
+    "programme": "DIN",
+    "roomNumber": "HC-501-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3d43bdb85da186f1e8bc",
+    "studentId": "21798",
+    "name": "NUR AI'NA BALQIS BINTI MOHD DAUD",
+    "programme": "DIN",
+    "roomNumber": "HC-501-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "89119f592631f512e24a",
+    "studentId": "21852",
+    "name": "SRI RAJESHVARI A/P ARIVANANTHAN",
+    "programme": "DOHTM",
+    "roomNumber": "HC-502-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7b7b6da200bf38189175",
+    "studentId": "22061",
+    "name": "DARVISHA",
+    "programme": "DBA",
+    "roomNumber": "HC-502-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "116f0ea67865a1f5b310",
+    "studentId": "21916",
+    "name": "INTAN MAISARAH BINTI RUHAIDY",
+    "programme": "DIN",
+    "roomNumber": "HC-503-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "690a5df76649544c3e61",
+    "studentId": "21745",
+    "name": "NIK NUZUL ATIAH BINTI NIK AIDI",
+    "programme": "DIN",
+    "roomNumber": "HC-503-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3b37094f04e5734b821b",
+    "studentId": "21755",
+    "name": "NURUL IZZATIE BINTI ABDUL RAHMAN",
+    "programme": "DIN",
+    "roomNumber": "HC-504-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "9601a6fef1030f171215",
+    "studentId": "21919",
+    "name": "MARIYAM ADLEENA BINTI MARIZAN",
+    "programme": "DIN",
+    "roomNumber": "HC-504-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d096e325a6c29191354c",
+    "studentId": "21828",
+    "name": "NUR MURSYIDAH BINTI TAJUDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-505-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6f7ca414f24302480efd",
+    "studentId": "21897",
+    "name": "NUR AINAA ZAFIRAH BINTI KAMAL",
+    "programme": "DIN",
+    "roomNumber": "HC-505-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b57fe7b8c323ae59cce3",
+    "studentId": "21466",
+    "name": "AIRIEN NATASHA BINTI AZIS",
+    "programme": "DIN",
+    "roomNumber": "HC-506-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "de0d3f35f170769f8c25",
+    "studentId": "21578",
+    "name": "NURSHASHA FARAHAN BINTI NUSHAIMIN",
+    "programme": "DIN",
+    "roomNumber": "HC-506-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "6933481a6caafd72d7b7",
+    "studentId": "22563",
+    "name": "NURUL SHAFIQAH BINTI ABDULLAH",
+    "programme": "DIT",
+    "roomNumber": "HC-507-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "14bfdbd38963d5092a4e",
+    "studentId": "21821",
+    "name": "DAMIA ALIA BINTI ZAMZURI",
+    "programme": "DIN",
+    "roomNumber": "HC-507-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "561dc4543668645165db",
+    "studentId": "21855",
+    "name": "NURUL MAISARAH BINTI ABU JAIS",
+    "programme": "DIN",
+    "roomNumber": "HC-508-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "7b28949f8b9ffce72f8e",
+    "studentId": "22102",
+    "name": "NADIAWAFA BINTI MOHD ROZI",
+    "programme": "BBADM",
+    "roomNumber": "HC-508-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "c9f19527589663422ce0",
+    "studentId": "21957",
+    "name": "NUR HUSNA BINTI YAHYA",
+    "programme": "DIN",
+    "roomNumber": "HC-509-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b629969028da7e81739d",
+    "studentId": "21781",
+    "name": "ALIYA BINTI MOHD ZULKIFLI",
+    "programme": "DIN",
+    "roomNumber": "HC-509-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "efe0ad93031ae920e5e0",
+    "studentId": "21975",
+    "name": "NUR HAFNI ATHIFAH BINTI NORHASRO",
+    "programme": "DIN",
+    "roomNumber": "HC-510-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "55c73542653880bdc4b7",
+    "studentId": "21908",
+    "name": "MARINAH KHAN BINTI SAJJAD AHMAD KHAN",
+    "programme": "DIN",
+    "roomNumber": "HC-510-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "3c165d2bb17327cf7aaf",
+    "studentId": "22112",
+    "name": "NURUL FARHANAH BINTI MOHD ALI  (long-long sem)",
+    "programme": "BSN",
+    "roomNumber": "HC-511-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8ab5908893d3db37b353",
+    "studentId": "22100",
+    "name": "NURJANNAH BINTI MUHAMMAD RIFKY (long-long sem)",
+    "programme": "BSN",
+    "roomNumber": "HC-511-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "2da706e5cd7f386449d3",
+    "studentId": "22121",
+    "name": "NURASYURA NAJLA BINTI BASRI",
+    "programme": "DIN",
+    "roomNumber": "HC-512-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "d065686099cc2268890b",
+    "studentId": "22488",
+    "name": "NOOR AMIRAH BINTI ASARULAH KHAN",
+    "programme": "FIS",
+    "roomNumber": "HC-512-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "b4b32508b9b39eb26675",
+    "studentId": "21928",
+    "name": "NUR FASHA NAJWA BINTI HAMRAN",
+    "programme": "DIN",
+    "roomNumber": "HC-513-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "9d861cfef1a0f3bfef21",
+    "studentId": "21932",
+    "name": "NURUL FATIHAH BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HC-513-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "80789b7a0f96b5041422",
+    "studentId": "21980",
+    "name": "JESSYLIANA ANAK JABUN",
+    "programme": "DCA",
+    "roomNumber": "HC-514-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8dc494e4879add36a6b9",
+    "studentId": "22045",
+    "name": "ANNA POOMANI A/P DEVARAJAH BALAYAH",
+    "programme": "FIB",
+    "roomNumber": "HC-514-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "c84067644fec29b110c1",
+    "studentId": "21933",
+    "name": "NURUL AIN NATASYA BINTI JUSOH",
+    "programme": "DIN",
+    "roomNumber": "HC-515-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "82f5e5f4fa413839dfa0",
+    "studentId": "21844",
+    "name": "NUR NAZURAHNISA BINTI MD NAZRI",
+    "programme": "DIN",
+    "roomNumber": "HC-515-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "94e0c0a81181605691cd",
+    "studentId": "21953",
+    "name": "SRI SIVANESWARY A/P MARAN",
+    "programme": "BBAHR",
+    "roomNumber": "HC-516-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "879694da6b633795945c",
+    "studentId": "21988",
+    "name": "THEVA LETCHMY",
+    "programme": "FIB",
+    "roomNumber": "HC-516-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8680c2d8a589609fc65b",
+    "studentId": "21797",
+    "name": "NUR DAMIA ALYAA SAMSUL BAHRIN",
+    "programme": "DIN",
+    "roomNumber": "HC-517-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "023c5983ab6a79680f8c",
+    "studentId": "21714",
+    "name": "SITI WAN SHERINA BINTI ZAINUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HC-517-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "deb6da4b47b00a1778bb",
+    "studentId": "22404",
+    "name": "NUR SHAFIQAH SAFFA BINTI MOHAMAD SAFRI",
+    "programme": "BSN",
+    "roomNumber": "HC-518-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "27873d842fc3144da5c6",
+    "studentId": "21949",
+    "name": "NURUL HUSNINA BINTI CHE SUKRI  (long-long sem)",
+    "programme": "BSN",
+    "roomNumber": "HC-518-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "ab1d511014a61dabc29c",
+    "studentId": "21647",
+    "name": "NITHIYASHALINI A/P MOHAN",
+    "programme": "BBAHR",
+    "roomNumber": "HC-520-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "04cc58fda954e57d830e",
+    "studentId": "22169",
+    "name": "WAK MARTA A/P MAHADIR",
+    "programme": "DIN",
+    "roomNumber": "HC-520-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "81c8999f0e0dc4fe1ed8",
+    "studentId": "21941",
+    "name": "TEERTANAH A/P SELVAM",
+    "programme": "FIB",
+    "roomNumber": "HC-522-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "8db192bdb4ca0ca56645",
+    "studentId": "21993",
+    "name": "NUR AMIRAH BINTI MUHAMMAD HAFIZUDDIN",
+    "programme": "BAAF",
+    "roomNumber": "HC-523-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "e6f0952d49406a9ff3b5",
+    "studentId": "22224",
+    "name": "NUR ERZARITHSOFEA BINTI MOHD ERWANDANNY",
+    "programme": "DIN",
+    "roomNumber": "HC-524-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "a7f6166d731d899c9f8e",
+    "studentId": "22047",
+    "name": "NUR EMELDA BADRISYA RIDWAN",
+    "programme": "DIN",
+    "roomNumber": "HC-524-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HC"
+  },
+  {
+    "id": "17175f9f3b9e1bb79a44",
+    "studentId": "21169",
+    "name": "KURALAMUDHAN A/L NEDUNCHELIYAN",
+    "programme": "BBAHR",
+    "roomNumber": "HD-103-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e2ec1459a3cdd2debd8b",
+    "studentId": "23232",
+    "name": "MD FAZLAY RABBI",
+    "programme": "DAME",
+    "roomNumber": "HD-105-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "aa212f1df882506335cd",
+    "studentId": "21396",
+    "name": "WOON KAI XIANG",
+    "programme": "FIS",
+    "roomNumber": "HD-106-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "93569ec635564073debd",
+    "studentId": "23032",
+    "name": "NAKIB MD ABDUR RAHMAN",
+    "programme": "BBA",
+    "roomNumber": "HD-109-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "a27836571ce1fff1945f",
+    "studentId": "STAFF",
+    "name": "MOM WORKER",
+    "programme": "Unknown",
+    "roomNumber": "HD-110-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "6bf78aa43c22ff9c4740",
+    "studentId": "20935",
+    "name": "WAN ZAMARUL HAIKAL BIN WAN JAAFAR",
+    "programme": "DIN",
+    "roomNumber": "HD-111-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e9f78c55b9caddb89ca3",
+    "studentId": "20934",
+    "name": "WAN KAMARUL HAIKAL BIN WAN JAAFAR",
+    "programme": "DIN",
+    "roomNumber": "HD-111-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e0fe1ab5c9706af6e9a2",
+    "studentId": "22949",
+    "name": "NIK MUHAMMAD HAZIQ",
+    "programme": "DIT",
+    "roomNumber": "HD-112-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "d4191c3d48774cc8ca5c",
+    "studentId": "STAFF",
+    "name": "MOM WORKER",
+    "programme": "Unknown",
+    "roomNumber": "HD-113-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "c7c30b0af319c3870446",
+    "studentId": "20920",
+    "name": "LAU KAR HONG",
+    "programme": "DIN",
+    "roomNumber": "HD-114-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "65d3ea7929a7f90a71bd",
+    "studentId": "21050",
+    "name": "DYSON PANG",
+    "programme": "DIT",
+    "roomNumber": "HD-115-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "1586cd8d63d30d4ed860",
+    "studentId": "21186",
+    "name": "SEAN CHUA MING XUEN",
+    "programme": "DAIR",
+    "roomNumber": "HD-115-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "2f30c298d7f794204ee5",
+    "studentId": "20958",
+    "name": "YUTHESHVAR A/L GANESAN",
+    "programme": "DIN",
+    "roomNumber": "HD-116-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7a90ab9c4b6e767757ed",
+    "studentId": "23358",
+    "name": "SAJEV A/L PREM",
+    "programme": "DAIR",
+    "roomNumber": "HD-116-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "ce903f69a582cbde0c50",
+    "studentId": "21631",
+    "name": "AMIRUL AIDIL HAQIM BIN JAMIL",
+    "programme": "DIN",
+    "roomNumber": "HD-117-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "56de0ba9f04fdf447247",
+    "studentId": "21665",
+    "name": "PUTERA IMRAN IDHAM",
+    "programme": "DIN",
+    "roomNumber": "HD-117-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "bf7931eb1eab9bfaf300",
+    "studentId": "21192",
+    "name": "KELVIN BANYAN ANAK NYANGGAU",
+    "programme": "DIN",
+    "roomNumber": "HD-118-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "1c49bd1fd869b99d5963",
+    "studentId": "23393",
+    "name": "Shaanjay Devh A/L Raggu",
+    "programme": "DAIR",
+    "roomNumber": "HD-119-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "62966231d12d0522b80d",
+    "studentId": "23236",
+    "name": "MUHAMMAD DARWISH BIN MOHAMED ZAINUL",
+    "programme": "DAIR",
+    "roomNumber": "HD-119-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "83965b3ba84793bd476c",
+    "studentId": "21226",
+    "name": "MUHAMMAD IQBAL BIN MD FADHIL",
+    "programme": "DCS",
+    "roomNumber": "HD-120-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "094849f88263b5032c6f",
+    "studentId": "22238",
+    "name": "ZAKWAN ADIB BIN ZAHISSHAM",
+    "programme": "DIN",
+    "roomNumber": "HD-120-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "c4de072b801099fa0fcf",
+    "studentId": "23080",
+    "name": "ASLAM BIN MOHD ASLI",
+    "programme": "FIS",
+    "roomNumber": "HD-121-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "ad0603a0a1307109f58b",
+    "studentId": "23172",
+    "name": "MUHAMMAD HARIS IKHWAN BIN ROSLI",
+    "programme": "DIN",
+    "roomNumber": "HD-121-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "dc46339c7fc9956b7bce",
+    "studentId": "21176",
+    "name": "GABRIEL CHIENG QING YUANG",
+    "programme": "DCA",
+    "roomNumber": "HD-122-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "33ceabe4e141497f12a0",
+    "studentId": "21145",
+    "name": "LEE ZHI HOM",
+    "programme": "BBIOT",
+    "roomNumber": "HD-122-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "211d3d75d4b306cd63f1",
+    "studentId": "STAFF",
+    "name": "ZHAW ZAN MAUNG - MYANMAR, PASSPORT: MF524713 (JOYOUS CAFE)",
+    "programme": "Unknown",
+    "roomNumber": "HD-123-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "f1d5d030222c7952f711",
+    "studentId": "STAFF",
+    "name": "AUNG MYAT KYAW - MYANMAR, PASSPORT: MF116537 (JOYOUS CAFE)",
+    "programme": "Unknown",
+    "roomNumber": "HD-123-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "b1127ab0ced6d8086366",
+    "studentId": "STAFF",
+    "name": "KHOO CHONG SENG (MOM WORKER)",
+    "programme": "Unknown",
+    "roomNumber": "HD-124-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "5d48c9231444a7673068",
+    "studentId": "STAFF",
+    "name": "MR. SAM - BUS DRIVER",
+    "programme": "Unknown",
+    "roomNumber": "HD-202-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "436ce282d84ab0552e12",
+    "studentId": "23177",
+    "name": "AFIF BIN IDRIS",
+    "programme": "ADAE",
+    "roomNumber": "HD-203-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "eec157da2d09063930d4",
+    "studentId": "21700",
+    "name": "SYAFIQ ADLI BIN MUSTAFFA",
+    "programme": "BBAIB",
+    "roomNumber": "HD-204-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "0174744eef6111139c41",
+    "studentId": "20875",
+    "name": "YAP QIAN YI  (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HD-205-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "1b84fdf722d8e9fa56b9",
+    "studentId": "23513",
+    "name": "RANSFORD ASIKABENG",
+    "programme": "DAIR",
+    "roomNumber": "HD-206-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "7dab0f06ee076716ea40",
+    "studentId": "23140",
+    "name": "TAN HONG YAO",
+    "programme": "FIB",
+    "roomNumber": "HD-207-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "b1c3f2b5518a37452939",
+    "studentId": "23141",
+    "name": "EDWIN LEE WEI QI",
+    "programme": "FIS",
+    "roomNumber": "HD-207-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "98980449ef327502459b",
+    "studentId": "20863",
+    "name": "SHOUVON MD SIRAJGANJ SADAR",
+    "programme": "ADAE",
+    "roomNumber": "HD-208-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "91cefd0c1ef3fe3ee2b9",
+    "studentId": "23307",
+    "name": "KAVIN KUMAR A/L PUVANESVARAN",
+    "programme": "DCA",
+    "roomNumber": "HD-214-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "27b409fc07bb78dafce4",
+    "studentId": "23249",
+    "name": "AIMAN ABDUL RAZAK",
+    "programme": "DAIR",
+    "roomNumber": "HD-214-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "2b1c3d58887571d8f964",
+    "studentId": "22748",
+    "name": "MUHAMMAD HARIS HAIKAL",
+    "programme": "DHM",
+    "roomNumber": "HD-216-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "bfe2333053bee8d8274a",
+    "studentId": "20499",
+    "name": "KARNESHWAR A/L MARIMUTHU",
+    "programme": "DAIR",
+    "roomNumber": "HD-217-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "fb67a995bf044604b0f9",
+    "studentId": "21602",
+    "name": "JEEVASELVAN  A/L MANICKAMANI",
+    "programme": "BBAFN",
+    "roomNumber": "HD-217-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "ccb035531108e593a0a0",
+    "studentId": "21436",
+    "name": "AABHA JOHN FENCIN CHRISTO",
+    "programme": "DAIR",
+    "roomNumber": "HD-218-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "b2abdac70131b50413be",
+    "studentId": "20979",
+    "name": "CHEAH HUNG HIN",
+    "programme": "DCS",
+    "roomNumber": "HD-219-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "0a3e455eb254356a600b",
+    "studentId": "21095",
+    "name": "BRYAN BOWIE YEE",
+    "programme": "DCS",
+    "roomNumber": "HD-219-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "c33f342678aca5bd07bc",
+    "studentId": "22091",
+    "name": "LOHEINRAO APPARAO",
+    "programme": "DAIR",
+    "roomNumber": "HD-221-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e2b25fe24d432aebef35",
+    "studentId": "20940",
+    "name": "DHARISHAN SRI NAIR A/L CHANDERAN",
+    "programme": "DAIR",
+    "roomNumber": "HD-222-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "63df1d0677324df4d20d",
+    "studentId": "21028",
+    "name": "K.PAARVINKUMAR A/L R.KRISHNA GUMAR",
+    "programme": "DAIR",
+    "roomNumber": "HD-222-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "002034bc3bd94c25a328",
+    "studentId": "22111",
+    "name": "HERVIN RAJ A/L ILAYATHAMBY",
+    "programme": "DBA",
+    "roomNumber": "HD-223-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "05728007a65725e1d572",
+    "studentId": "21930",
+    "name": "MAHESWARAN A/L LOGESVARAN",
+    "programme": "DCA",
+    "roomNumber": "HD-223-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "854fc9e0a7391fef6097",
+    "studentId": "20786",
+    "name": "TASSUIN A/L SASITHARAN",
+    "programme": "DAIR",
+    "roomNumber": "HD-224-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "a224fc9eb9b5ff1ddc85",
+    "studentId": "23213",
+    "name": "CAISNU MENON A/L SIVAKUMAR",
+    "programme": "DCA",
+    "roomNumber": "HD-225-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "a7d852deb6ee1ed8cab7",
+    "studentId": "23467",
+    "name": "VISSHAGANN A/L CHANDERAN",
+    "programme": "DCA",
+    "roomNumber": "HD-225-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "f0569c7e8a2752922260",
+    "studentId": "20487",
+    "name": "AJAY RAVI",
+    "programme": "DAIR",
+    "roomNumber": "HD-226-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "03f9740440711286f967",
+    "studentId": "19679",
+    "name": "Dharsan a/l Raju",
+    "programme": "DAIR",
+    "roomNumber": "HD-227-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "90c353403ff8cb8aa855",
+    "studentId": "23570",
+    "name": "MUHAMMAD ARSYAD BIN AMBIAH",
+    "programme": "DIN",
+    "roomNumber": "HD-228-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "6d4ad11e2cd47763c554",
+    "studentId": "21650",
+    "name": "MUHAMMAD ASYRAF BIN AMBIAH",
+    "programme": "DIN",
+    "roomNumber": "HD-228-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "d47fdc8640f813e5a8bb",
+    "studentId": "22089",
+    "name": "AHMED IRFAN AMMAR",
+    "programme": "DAIR",
+    "roomNumber": "HD-229-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "e5599dedb29be8be9463",
+    "studentId": "21205",
+    "name": "MUHAMAD NOOR SYAZWAN BORHAN",
+    "programme": "DIN",
+    "roomNumber": "HD-230-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "36dd76d87e4bf90bb5ae",
+    "studentId": "21785",
+    "name": "HAZMAN 'ALIF BIN SHAIGUL AMRI",
+    "programme": "DIN",
+    "roomNumber": "HD-230-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "faee761763f3c4a48a79",
+    "studentId": "19532",
+    "name": "Muhammad Aiman Najmi Bin Mohd Zafril Rizal- check out",
+    "programme": "DCS",
+    "roomNumber": "HD-301-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "d037f59814f0d64d3dd3",
+    "studentId": "21073",
+    "name": "GIAM CHUNG WEI",
+    "programme": "DAIR",
+    "roomNumber": "HD-302-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "19ca9eaedf7f8c589378",
+    "studentId": "23366",
+    "name": "DEY DIPTA",
+    "programme": "BITCS",
+    "roomNumber": "HD-303-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "23418b30395596a7c4d3",
+    "studentId": "20859",
+    "name": "YAN CHAO  **stay until Nov (4 months - long sem), already charged until Nov/Choi",
+    "programme": "PHDMG",
+    "roomNumber": "HD-304-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "383e740e985c4f8ef836",
+    "studentId": "23394",
+    "name": "BAH YAYA ADAMA",
+    "programme": "BCSSE",
+    "roomNumber": "HD-305-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "79763ab8263a76d02b6f",
+    "studentId": "21376",
+    "name": "Darren Wong Wei Kit",
+    "programme": "DAIR",
+    "roomNumber": "HD-306-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "8ea8e0ee69966da5bc56",
+    "studentId": "19646",
+    "name": "KRISHRAMRAM PILLAI A/L THATCHNAMOORTHI",
+    "programme": "DBA",
+    "roomNumber": "HD-307-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "c09f29761cb5fb8b31d4",
+    "studentId": "21066",
+    "name": "Rutharesh A/L Ganesan Pillay",
+    "programme": "DCA",
+    "roomNumber": "HD-307-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7e29ba2e4c7dc4285039",
+    "studentId": "21008",
+    "name": "NATHANIEL SAMUEL A/L JOSHUA  (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HD-308-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "26dbc56597a0b5a008b8",
+    "studentId": "21009",
+    "name": "TURKESHWARAN A/L KALITHASSAN   (JUN 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HD-308-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "687676cf3595ec1a3087",
+    "studentId": "23400",
+    "name": "MUHAMMAD AIMAN ZAID BIN MUKTI ALI",
+    "programme": "FIS",
+    "roomNumber": "HD-309-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "12adc1ed61fd4e38f130",
+    "studentId": "21030",
+    "name": "BINDU JAYAN ABHISHEK   (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HD-310-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "df168dbec37f977bae2f",
+    "studentId": "20336",
+    "name": "JONATHAN CHONG FUNG BIN",
+    "programme": "DCS",
+    "roomNumber": "HD-311-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "97dcf156b29446a7cc41",
+    "studentId": "22496",
+    "name": "MUAZZIZ RASUL BIN KHASIM",
+    "programme": "DIT",
+    "roomNumber": "HD-312-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7f8957765e03433b6995",
+    "studentId": "22758",
+    "name": "LALITH SUKESHSAN AL VASSU",
+    "programme": "FIB",
+    "roomNumber": "HD-313-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "fb6ba6fbacaaf22932ee",
+    "studentId": "22507",
+    "name": "ATHI SHANGKER MURUGAN",
+    "programme": "DAIR",
+    "roomNumber": "HD-313-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "8e3f1c6279edabb1cf68",
+    "studentId": "20351",
+    "name": "ONG PUI KEAT",
+    "programme": "DCA",
+    "roomNumber": "HD-314-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "4fe3b16a7a1f925453c3",
+    "studentId": "20596",
+    "name": "VERNON MOO JING RONG  **finished intership. going to check out december",
+    "programme": "DBA",
+    "roomNumber": "HD-315-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "eeb00ea3dd383c5be854",
+    "studentId": "23313",
+    "name": "MOHAMAD DANIEL BIN ANUAR",
+    "programme": "DIN",
+    "roomNumber": "HD-317-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "6148695b3f49f7e0b58c",
+    "studentId": "21802",
+    "name": "WONG TECK KANG",
+    "programme": "DBA",
+    "roomNumber": "HD-318-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "024e81236de370c29a5c",
+    "studentId": "20426",
+    "name": "SIM KWONG FEI",
+    "programme": "BBAMK",
+    "roomNumber": "HD-318-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "cf8b37e0749cd17b0973",
+    "studentId": "21987",
+    "name": "SAMUEL JOHN",
+    "programme": "DBIT",
+    "roomNumber": "HD-319-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "b2b7fa768449d6dedb49",
+    "studentId": "22071",
+    "name": "SHARVINN A/L MOHAN DASS",
+    "programme": "DCS",
+    "roomNumber": "HD-319-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "9ad931c3e7b2b8dd79ec",
+    "studentId": "20267",
+    "name": "YAP XUE YANG",
+    "programme": "BBAHR",
+    "roomNumber": "HD-320-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "272ceef7535d4248e761",
+    "studentId": "20696",
+    "name": "MUEATAZ MOHAMMED HEZAM AL-MAAMARI",
+    "programme": "BIT",
+    "roomNumber": "HD-322-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "6593ba139519dfcc8a59",
+    "studentId": "22107",
+    "name": "SAHA AKASH",
+    "programme": "BBAHR",
+    "roomNumber": "HD-323-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "b0f5004ad708a55b4847",
+    "studentId": "21178",
+    "name": "FERNANDO ALBERTUGE NANEEN ANJANA SRI",
+    "programme": "DAME",
+    "roomNumber": "HD-323-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "cf5396e3c260412c5843",
+    "studentId": "22414",
+    "name": "SADHIN SAYED ABDULLA",
+    "programme": "DCA",
+    "roomNumber": "HD-324-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "146986869dbeb911ad55",
+    "studentId": "21275",
+    "name": "AL ADIB KHAN",
+    "programme": "DHOTM",
+    "roomNumber": "HD-324-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "883a6dfd35796cc19379",
+    "studentId": "19539",
+    "name": "Lim Chun Xin",
+    "programme": "DBIT",
+    "roomNumber": "HD-326-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "c9c7db59f2c91603102e",
+    "studentId": "19538",
+    "name": "JEFF SIA YU HENG  (mdm ang helper)",
+    "programme": "BCS",
+    "roomNumber": "HD-326-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "60daeeb2ae344d68bca7",
+    "studentId": "21764",
+    "name": "NUR AFIQ IZUDDIN BIN NAZARUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HD-328-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "1c9dcabbc416d9c1e28c",
+    "studentId": "21887",
+    "name": "Muhamad Azri Danish Bin Muhamad Nazari *parent req same race and prog if possible",
+    "programme": "DIT",
+    "roomNumber": "HD-328-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "414d43803b93c69f5d84",
+    "studentId": "21944",
+    "name": "MADHANRAJ A/L SIVA KUMAR",
+    "programme": "DIT",
+    "roomNumber": "HD-330-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "423f4d548c386da7f73e",
+    "studentId": "21945",
+    "name": "THANUSH A/L ARASARATNAM",
+    "programme": "DIT",
+    "roomNumber": "HD-330-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "bd4e513b40e5023dcdc2",
+    "studentId": "23370",
+    "name": "RENO CHAN ZIREN",
+    "programme": "DAIR",
+    "roomNumber": "HD-401-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "8d7122abfe9e75116f59",
+    "studentId": "20569",
+    "name": "SAI KYAW ZIA THIHA",
+    "programme": "DAIR",
+    "roomNumber": "HD-402-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "11d7831f1f04e31f3a4e",
+    "studentId": "23212",
+    "name": "YAP YONG REN",
+    "programme": "DAIR",
+    "roomNumber": "HD-403-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "a626cdf79e86a5636144",
+    "studentId": "23154",
+    "name": "HOSSAM ELDEEN AHMED SHAFEEG AHMED",
+    "programme": "ADAE",
+    "roomNumber": "HD-405-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "321cbb7d5540846dcf24",
+    "studentId": "22056",
+    "name": "TASBIH MAHMUD",
+    "programme": "BHM",
+    "roomNumber": "HD-406-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "32417c3b7964163030d8",
+    "studentId": "21614",
+    "name": "GOVINHRAAJ A/L YOGISWARAN",
+    "programme": "DIN",
+    "roomNumber": "HD-407-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "3692edf5165d0a4608c6",
+    "studentId": "21516",
+    "name": "MUHAMAD AIMAN BIN FISOL",
+    "programme": "DIN",
+    "roomNumber": "HD-407-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "f4896bb6eb6f776b6c88",
+    "studentId": "21938",
+    "name": "MOLLIK MD RAHMOT",
+    "programme": "DAIR",
+    "roomNumber": "HD-408-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "9d458874cfcc6d4dfae2",
+    "studentId": "21645",
+    "name": "MAHIM MD ARMAN HOSSAIN",
+    "programme": "DAIR",
+    "roomNumber": "HD-408-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "24119b3bca8f7c1febf6",
+    "studentId": "20491",
+    "name": "TEN ZEN   (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HD-409-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e8a79e1d079b104a8cca",
+    "studentId": "21820",
+    "name": "RUBEHSAN RAO A/L JOHTHY",
+    "programme": "DIN",
+    "roomNumber": "HD-410-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7744fafcb069346b190c",
+    "studentId": "21879",
+    "name": "UMAR SHARAFEE BIN MOHD ADREE",
+    "programme": "DIN",
+    "roomNumber": "HD-410-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "1b902008ec912be3c143",
+    "studentId": "22176",
+    "name": "BILLAL HOSSAIN",
+    "programme": "DAIR",
+    "roomNumber": "HD-411-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "63984180ec3d380eb85c",
+    "studentId": "23382",
+    "name": "MEHEDI HASSAN",
+    "programme": "DAIR",
+    "roomNumber": "HD-411-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "7205097a9f582638a0af",
+    "studentId": "23234",
+    "name": "PRITOM IKRAMAL ISLAM",
+    "programme": "DAIR",
+    "roomNumber": "HD-412-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "4401f5e551b8431a3ff0",
+    "studentId": "23019",
+    "name": "UDAY MD ARIF MOHAMMAD",
+    "programme": "DAIR",
+    "roomNumber": "HD-412-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "3eb3e3a9089bee6c7163",
+    "studentId": "20991",
+    "name": "MUHAMMAD HAZIM MIRZA BIN MOHD NORDIN",
+    "programme": "DIN",
+    "roomNumber": "HD-413-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "4c1983f539565c87ba26",
+    "studentId": "22923",
+    "name": "ARVEEN RAJ  A/L GUNASEGAR",
+    "programme": "FIB",
+    "roomNumber": "HD-414-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7aec1082659aee9ffad6",
+    "studentId": "18361",
+    "name": "YAT KAI WEN",
+    "programme": "BIT",
+    "roomNumber": "HD-414-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "0058718a1208314ecd11",
+    "studentId": "20884",
+    "name": "CHE ABDUL AMIN BIN CHE ABDUL AZIZ",
+    "programme": "DIN",
+    "roomNumber": "HD-416-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "824d9332c9c90a96fad5",
+    "studentId": "20973",
+    "name": "AFHAM HAKIM WAN MOHD SHAHRULNIZAM",
+    "programme": "DIN",
+    "roomNumber": "HD-416-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "8d482d7b914c8c72c883",
+    "studentId": "STAFF",
+    "name": "RAJ SHAMIM",
+    "programme": "Unknown",
+    "roomNumber": "HD-417-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "a14fc74950ece2623247",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR MOM WORKERS",
+    "programme": "Unknown",
+    "roomNumber": "HD-417-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "832ed107cd91ff3bee0b",
+    "studentId": "20974",
+    "name": "AMJAD BIN ABD AMRAN",
+    "programme": "DIN",
+    "roomNumber": "HD-418-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "b58a0dff7b0a8abdd453",
+    "studentId": "23135",
+    "name": "JONATHAN KOH",
+    "programme": "FIS",
+    "roomNumber": "HD-421-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e2f1ac456e3d195e1f0b",
+    "studentId": "23216",
+    "name": "LIANG ZHEN YAW",
+    "programme": "FIB",
+    "roomNumber": "HD-421-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e49a52d24d5cf848aab8",
+    "studentId": "23013",
+    "name": "AZIZUL HAKIM BIN IDRIS",
+    "programme": "DIN",
+    "roomNumber": "HD-422-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "7d0b9d29db34507ecdfa",
+    "studentId": "22929",
+    "name": "MOHAMAD RAHMAT BIN BUCHARI",
+    "programme": "DIN",
+    "roomNumber": "HD-422-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "6536474c0f3189faf23b",
+    "studentId": "21196",
+    "name": "MUHAMMAD AFIQ ISKANDAR BIN MUHAMMAD JASMI",
+    "programme": "DIN",
+    "roomNumber": "HD-426-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "0fadd4a1514ffde6aded",
+    "studentId": "20851",
+    "name": "MUHAMMAD NAUFAL ISKANDAR  BIN AHMAD TAJUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HD-427-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "2ea6fc1f5c641354142d",
+    "studentId": "21038",
+    "name": "MUHAMMAD ZIKRI RAHMAN BIN AHMAD TAJUDIN",
+    "programme": "DIN",
+    "roomNumber": "HD-428-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "3ff8efc55f0571b60bd4",
+    "studentId": "20980",
+    "name": "MUHAMMAD HAIZAD BIN SAMSUL",
+    "programme": "DIN",
+    "roomNumber": "HD-428-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "bee1691c4ec8b433b9e0",
+    "studentId": "20933",
+    "name": "MUHAMMAD HAZIM BIN AZHAR",
+    "programme": "DIN",
+    "roomNumber": "HD-429-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "d07bdae236dd874d5cb1",
+    "studentId": "21012",
+    "name": "MUHAMMAD SYAHMI FAHMI BIN SHAHRIL",
+    "programme": "DIN",
+    "roomNumber": "HD-429-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "e76b0b579cb537568ac1",
+    "studentId": "22851",
+    "name": "TAN WEI JIE",
+    "programme": "DAIR",
+    "roomNumber": "HD-430-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "23d4151498f5c763fc9c",
+    "studentId": "22820",
+    "name": "CHUA YU ZHE",
+    "programme": "FIS",
+    "roomNumber": "HD-430-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "0bd529a563581a0b74e0",
+    "studentId": "21989",
+    "name": "KOYESH ARAF AL NOOR",
+    "programme": "DAME",
+    "roomNumber": "HD-501-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "2a46eb515ec585d40387",
+    "studentId": "21969",
+    "name": "AKIJAR ABDULSALAMI KASSIM",
+    "programme": "DAIR",
+    "roomNumber": "HD-502-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "ea35c32cf754bd69a1be",
+    "studentId": "22412",
+    "name": "HOSSAIN MD RIYADH",
+    "programme": "BABHM",
+    "roomNumber": "HD-503-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "fc544ca20f643921ef8d",
+    "studentId": "23473",
+    "name": "KIPROP CORNELIUS",
+    "programme": "BBA",
+    "roomNumber": "HD-504-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "4ca908f49b6a246f3d07",
+    "studentId": "22809",
+    "name": "JJ ARREAL CLAYSTER",
+    "programme": "DIN",
+    "roomNumber": "HD-507-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HD"
+  },
+  {
+    "id": "6597df71bfd013c87d5d",
+    "studentId": "22167",
+    "name": "MD MAMUDUL HASAN",
+    "programme": "DAME",
+    "roomNumber": "HD-508-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "fa8bf63afec3052de039",
+    "studentId": "22395",
+    "name": "RIFAT ARIFUL ISLAM - rat issues",
+    "programme": "AME",
+    "roomNumber": "HD-508-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "ebce355ed090fd4ab7f3",
+    "studentId": "22483",
+    "name": "ZIAD ABDULLAH",
+    "programme": "DAIR",
+    "roomNumber": "HD-509-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "95ff563205bc5e70a20e",
+    "studentId": "22251",
+    "name": "MD AL  RAFI MRIDA",
+    "programme": "BIS",
+    "roomNumber": "HD-509-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "c71babd66d4f599dc2bb",
+    "studentId": "23369",
+    "name": "HABIB MD",
+    "programme": "BBAGL",
+    "roomNumber": "HD-510-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "8b8dddb4d25eb621db5d",
+    "studentId": "22413",
+    "name": "MD MAHFUJ MIAH",
+    "programme": "BBAGL",
+    "roomNumber": "HD-510-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "55933dcce7f42c06cc86",
+    "studentId": "23296",
+    "name": "KHAN MD SAYEM",
+    "programme": "BABHM",
+    "roomNumber": "HD-511-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "f0c5bdeda03dc5bfd1fa",
+    "studentId": "20868",
+    "name": "VD MD ISTIAQ AHMED",
+    "programme": "DAIR",
+    "roomNumber": "HD-511-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "bda168e2086000ae0722",
+    "studentId": "23181",
+    "name": "RAHMAN MD NAIMUR",
+    "programme": "DAIR",
+    "roomNumber": "HD-512-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "3b11c346d7f258049a41",
+    "studentId": "23334",
+    "name": "MD SHIHAB CHOWDHURY",
+    "programme": "DAIR",
+    "roomNumber": "HD-512-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "acb7e793b435da9e3bfe",
+    "studentId": "23551",
+    "name": "FERDOUS YEAMIN",
+    "programme": "DAIR",
+    "roomNumber": "HD-513-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "5648dbec0b80c04b13f9",
+    "studentId": "23655",
+    "name": "BANIK SWARUP KUMAR  **Not register as at 30/10- choi",
+    "programme": "IEP/DAIR",
+    "roomNumber": "HD-513-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "87ecb8fa46a13a263329",
+    "studentId": "22707",
+    "name": "PRONOY BARUA",
+    "programme": "BBHM",
+    "roomNumber": "HD-515-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "2835b6c72504c38373ce",
+    "studentId": "22743",
+    "name": "MAHIN AREYAN ISLAM",
+    "programme": "DAIR",
+    "roomNumber": "HD-515-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "5ee63f7e20c72863ccf0",
+    "studentId": "23616",
+    "name": "ABU BAKAR SIDDIK",
+    "programme": "IEP/DAIR",
+    "roomNumber": "HD-516-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "66bc5162c5c6de642972",
+    "studentId": "23159",
+    "name": "BHUYAN SHIHAB",
+    "programme": "BCS",
+    "roomNumber": "HD-517-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "6581662506b85bdac548",
+    "studentId": "22845",
+    "name": "MAHMUD RAKIB S M ABDULLAH AL",
+    "programme": "DAIR",
+    "roomNumber": "HD-517-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "faada11305373407ae9a",
+    "studentId": "23180",
+    "name": "NAEEMUL ALAM NAHIM",
+    "programme": "BITCS",
+    "roomNumber": "HD-518-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "96eacafc99775229459a",
+    "studentId": "23167",
+    "name": "AMIN MD MUNTAKA AL",
+    "programme": "BITCS",
+    "roomNumber": "HD-518-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "ef4b8af45d29f36aa0b6",
+    "studentId": "22828",
+    "name": "MOHAMMAD SAIMUL HOQUE SAIM",
+    "programme": "BIT",
+    "roomNumber": "HD-522-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "760fed095620e60043ab",
+    "studentId": "22587",
+    "name": "HOSSEN MD SOLAIMAN",
+    "programme": "BIT",
+    "roomNumber": "HD-523-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "cf42f9d58bbcf953d795",
+    "studentId": "22434",
+    "name": "UDDIN MOHAMMAD NUR",
+    "programme": "BBADM",
+    "roomNumber": "HD-523-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "484c6ffe835c2311ca7e",
+    "studentId": "22740",
+    "name": "CHAWAFAMBIRA DANZEL NORBERT",
+    "programme": "DIT",
+    "roomNumber": "HD-524-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "a743001f2184644cfa25",
+    "studentId": "23368",
+    "name": "JUBAIR BIN KAMAL",
+    "programme": "IEP/BITCS",
+    "roomNumber": "HD-524-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "2fda0a7c2fd712e34d62",
+    "studentId": "22825",
+    "name": "MIA MD ARMAN",
+    "programme": "BCSDC",
+    "roomNumber": "HD-526-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "8f8f4a9a304b4bc73a7e",
+    "studentId": "22848",
+    "name": "ESHWARAGE DON VADITHITHYA SANKALP",
+    "programme": "BBAGL",
+    "roomNumber": "HD-526-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "e52e1d73888d7b33a9bb",
+    "studentId": "22937",
+    "name": "PHELIX ONYANGO",
+    "programme": "DAIR",
+    "roomNumber": "HD-530-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HD"
+  },
+  {
+    "id": "29fe95ea51f3fb3623c7",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS",
+    "programme": "Unknown",
+    "roomNumber": "HF-114-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "72742881fe000947a061",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS",
+    "programme": "Unknown",
+    "roomNumber": "HF-116-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "a01c837015551b145e53",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS",
+    "programme": "Unknown",
+    "roomNumber": "HF-118-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "4c0d8222231737805e3a",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS  (Mr Wen)",
+    "programme": "Unknown",
+    "roomNumber": "HF-120-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "5f568614032d98fe6fe3",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS  (Mr Li Bing)",
+    "programme": "Unknown",
+    "roomNumber": "HF-122-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "65a55e958c60cf0297dc",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR WFIT CONTRACTORS",
+    "programme": "Unknown",
+    "roomNumber": "HF-124-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "ed88777da7b9c9813bd7",
+    "studentId": "STAFF",
+    "name": "MR SHI (WFIT to fix wifi)",
+    "programme": "Unknown",
+    "roomNumber": "HF-201-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "6f2b13706b4fcabf918b",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR CHINA CONTRACTOR",
+    "programme": "Unknown",
+    "roomNumber": "HF-202-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "8cac225bfa92e97d3e01",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR CHINA CONTRACTOR",
+    "programme": "Unknown",
+    "roomNumber": "HF-203-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "02b996293afb75342c2b",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR CHINA CONTRACTOR",
+    "programme": "Unknown",
+    "roomNumber": "HF-204-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "2f9592be34075c5edd4f",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR CHINA CONTRACTOR",
+    "programme": "Unknown",
+    "roomNumber": "HF-205-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "c034313a056e36c45c09",
+    "studentId": "STAFF",
+    "name": "ZHAO YANG (WFIT STAFF)",
+    "programme": "Unknown",
+    "roomNumber": "HF-207-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "34495bfec76418fd24f3",
+    "studentId": "STAFF",
+    "name": "RESERVED FOR CHINA CONTRACTOR",
+    "programme": "Unknown",
+    "roomNumber": "HF-209-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "729032b01642ff9a15d4",
+    "studentId": "23438",
+    "name": "DING YIHANG (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-214-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "5ef963b02024563cdb28",
+    "studentId": "23459",
+    "name": "LIU WEICHEN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-214-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "06a7f6d27ac07827ab21",
+    "studentId": "23454",
+    "name": "WANG HAOYU (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-215-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "ee170a6d1d6d7dabf68c",
+    "studentId": "23469",
+    "name": "TONG XIN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-215-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "3286cd8373a25a0ef0dd",
+    "studentId": "23417",
+    "name": "CHEN ZIYANG (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-216-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "644e5a39c2d0dbb6e76c",
+    "studentId": "23439",
+    "name": "FAN ZHIHONG (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-216-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "745560481d05a7116eb6",
+    "studentId": "23472",
+    "name": "ZHOU YANGYIJIA (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-217-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "36786ee40fd2d37acd02",
+    "studentId": "23455",
+    "name": "WANG JINZHAO (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-217-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "9832e2da2cf64b5e4de5",
+    "studentId": "23463",
+    "name": "WEI FANHAO (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-218-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "47c69a48e6516b2d7d69",
+    "studentId": "23457",
+    "name": "WANG TONG (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-218-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "19a0e63446a328e82ba4",
+    "studentId": "23456",
+    "name": "WANG LIHUA (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-219-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "450919f3b36f9158cf41",
+    "studentId": "21280",
+    "name": "MA CHUAN  ETA 18NOV/CHOI  **RM50/night",
+    "programme": "PHD",
+    "roomNumber": "HF-221-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "23e953905733738a3ea9",
+    "studentId": "21142",
+    "name": "HTETKO",
+    "programme": "DHOTM",
+    "roomNumber": "HF-301-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "d21a131d0eb9d3d667fe",
+    "studentId": "22936",
+    "name": "HEIN TAYZAR",
+    "programme": "DIN",
+    "roomNumber": "HF-301-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "87ee22e2f1c9a14924fe",
+    "studentId": "20415",
+    "name": "HTIN KYAW YE YINT",
+    "programme": "DCS",
+    "roomNumber": "HF-302-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "c7583912496eb6a4520b",
+    "studentId": "20416",
+    "name": "WAI YAN HEIN",
+    "programme": "DCS",
+    "roomNumber": "HF-302-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "827d981432173151d338",
+    "studentId": "22559",
+    "name": "AZAM WASI",
+    "programme": "DAIR",
+    "roomNumber": "HF-303-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "1e847966e6435f8ed31f",
+    "studentId": "23114",
+    "name": "NKOMAZANA VUSUMUZI VICTOR",
+    "programme": "DAIR",
+    "roomNumber": "HF-304-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "e46faf955d24e061540d",
+    "studentId": "23043",
+    "name": "ZISUSA TINOTENDA",
+    "programme": "DAIR",
+    "roomNumber": "HF-304-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "83f4f4dd8faab46a4d71",
+    "studentId": "23586",
+    "name": "GWAI ALLAN JOHN",
+    "programme": "DAIR",
+    "roomNumber": "HF-305-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "653e8b4a9aa414acc5c7",
+    "studentId": "20550",
+    "name": "WILLIAM EDWARD IMOHI",
+    "programme": "DAIR",
+    "roomNumber": "HF-306-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "f4e151d2c6fb5aa69380",
+    "studentId": "23563",
+    "name": "AWAWDA AYOUB NIDAL YOUSEF",
+    "programme": "IEP/BITCS",
+    "roomNumber": "HF-307-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "0c9a67aceb105281a710",
+    "studentId": "STAFF",
+    "name": "WFIT CONTRUCTION CREW   **padlock key with mr jin (owner)",
+    "programme": "Unknown",
+    "roomNumber": "HF-309-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "8a9fa1c3223d38b74295",
+    "studentId": "23037",
+    "name": "ZHAO DAN",
+    "programme": "MED",
+    "roomNumber": "HF-311-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "302ce29a127d290130df",
+    "studentId": "20464",
+    "name": "SAI INN HTONG KHAM",
+    "programme": "DAIR",
+    "roomNumber": "HF-312-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "a607fda1eed74157ce00",
+    "studentId": "STAFF",
+    "name": "BOSS WFIT (MR JIN)",
+    "programme": "Unknown",
+    "roomNumber": "HF-313-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "cab9e5862ef8cc138d36",
+    "studentId": "22155",
+    "name": "MOHAMED YOUSIF BIRAIMA ALI  *withdraw study. will come back to check out/Choi 12nov",
+    "programme": "FIS",
+    "roomNumber": "HF-317-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "a1ae55b0cafc89422e9e",
+    "studentId": "23593",
+    "name": "SECK CHEIKH OUSSEYNOU",
+    "programme": "IEP/BBA",
+    "roomNumber": "HF-318-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "2b99326d4efb6b8ac867",
+    "studentId": "23595",
+    "name": "SECK MOUHAMED EL BACHIR",
+    "programme": "IEP/BBA",
+    "roomNumber": "HF-318-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "e3917c7a531c70d4a3b0",
+    "studentId": "23093",
+    "name": "SALMAN SAIF KHAN",
+    "programme": "DIT",
+    "roomNumber": "HF-319-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "a4c5adf703d19a6d0fdc",
+    "studentId": "23525",
+    "name": "SOWE BUBA K",
+    "programme": "MAS",
+    "roomNumber": "HF-325-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "047947a24b2bcd23ef90",
+    "studentId": "23742",
+    "name": "KASVIN RAJ BALAN",
+    "programme": "DAIR",
+    "roomNumber": "HF-327-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "041bb1cd2bc3bbf48923",
+    "studentId": "23812",
+    "name": "BATHMITHAN PILLAY A/L BATHMANATHAN PILLAY",
+    "programme": "BITCS",
+    "roomNumber": "HF-327-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "fc7977750dad55f67628",
+    "studentId": "23522",
+    "name": "MUHAMMAD DANISH HAIKAL BIN NORDIN",
+    "programme": "FIB",
+    "roomNumber": "HF-401-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "5252271066d2d09f8df7",
+    "studentId": "23487",
+    "name": "MUHAMMAD ARIF FARHAN BIN MOHAMED SALLEHUDDIN",
+    "programme": "FIS",
+    "roomNumber": "HF-401-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "973eb424b14a03f2e0e3",
+    "studentId": "23414",
+    "name": "SHARMAN RAMANI",
+    "programme": "DCA",
+    "roomNumber": "HF-402-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "994dc47fc527468cb728",
+    "studentId": "23512",
+    "name": "LUKESSHRAAJ A/L UMASUTHAN",
+    "programme": "DAIR",
+    "roomNumber": "HF-402-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "f43dbe8ea806dc493f40",
+    "studentId": "22946",
+    "name": "WYSON HIEW TZUN HOONG",
+    "programme": "DCA",
+    "roomNumber": "HF-403-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "e3d81b065b277e93f6f6",
+    "studentId": "23458",
+    "name": "YOGESN A/L PETER RAJAN",
+    "programme": "BBAGL",
+    "roomNumber": "HF-404-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "8bc98e58863ccfa8479f",
+    "studentId": "23511",
+    "name": "VILOCHAAN A/L RAMESH",
+    "programme": "DAIR",
+    "roomNumber": "HF-404-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "df13c00c328bc5596821",
+    "studentId": "23371",
+    "name": "MUHAMMAD AFIF HIDAYAT BIN ADZEAN",
+    "programme": "FIS",
+    "roomNumber": "HF-405-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "332eaba668c403c7b182",
+    "studentId": "23115",
+    "name": "MUHAMAD NAZMI SYAKIR BIN MOHD NASIR",
+    "programme": "DIN",
+    "roomNumber": "HF-405-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "7b534c8815b359f5ad3f",
+    "studentId": "19338",
+    "name": "LOH DA XIAN",
+    "programme": "BBIOT",
+    "roomNumber": "HF-406-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "b32d47fa86e3e95a22cd",
+    "studentId": "23639",
+    "name": "CHONG KAH MING",
+    "programme": "BAAF",
+    "roomNumber": "HF-406-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "e16392de5d9b097b012e",
+    "studentId": "21134",
+    "name": "YAP JIN SIEN  (JUNE 25 - LONG SEM)",
+    "programme": "DAIR",
+    "roomNumber": "HF-407-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "3af43e156cfc941d3a47",
+    "studentId": "20941",
+    "name": "LEONG YU XIANG",
+    "programme": "DAIR",
+    "roomNumber": "HF-408-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "e7b703bab1499af03aab",
+    "studentId": "22116",
+    "name": "BHOIR MAYURESH PARSHURAM",
+    "programme": "DAIR",
+    "roomNumber": "HF-409-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "32a47189b7e38e4e637b",
+    "studentId": "22059",
+    "name": "SINANTRIA AFRIDO PANHJI  *reg for 2513",
+    "programme": "IEPI",
+    "roomNumber": "HF-410-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "5a7f683764000252c700",
+    "studentId": "19795",
+    "name": "KIM TAEKYUNG",
+    "programme": "DAIR",
+    "roomNumber": "HF-411-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "d314a4cd70917a7555dd",
+    "studentId": "23365",
+    "name": "Bilal Shabbir",
+    "programme": "DAIR",
+    "roomNumber": "HF-412-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "8b67e5c8b338b2f1d12b",
+    "studentId": "23070",
+    "name": "MUFAMBIRWI SEAN LEON AARON",
+    "programme": "DAIR",
+    "roomNumber": "HF-412-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "faec663f80e97780ea1c",
+    "studentId": "22509",
+    "name": "SHAHRIAR KH NASID",
+    "programme": "ADAE",
+    "roomNumber": "HF-413-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "9caee4f752634f93bd77",
+    "studentId": "19975",
+    "name": "LEE MAI KANG",
+    "programme": "DBA",
+    "roomNumber": "HF-415-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "f0c8773aaa7dec8309b6",
+    "studentId": "20972",
+    "name": "GAN YEE KEAT",
+    "programme": "DACC",
+    "roomNumber": "HF-415-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "f098b478494fd2de557f",
+    "studentId": "23418",
+    "name": "MUHAMMAD IKHRAM SHAH BIN MOHAMMAD HANIF BALA ABDULLAH",
+    "programme": "DAIR",
+    "roomNumber": "HF-416-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "1fa74724f37a2d4d4d23",
+    "studentId": "23495",
+    "name": "ADAM BRANDON LIM",
+    "programme": "DAIR",
+    "roomNumber": "HF-416-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "c4ec0213ef03eb5e972a",
+    "studentId": "23554",
+    "name": "SYAFIQ DANIEL BIN REZAL",
+    "programme": "DAIR",
+    "roomNumber": "HF-417-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "299285febe8b38eb58e8",
+    "studentId": "23585",
+    "name": "MUHAMMAD ADAM DANIEL BIN ABDUL LATIF",
+    "programme": "DAIR",
+    "roomNumber": "HF-417-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "50249e20ce310e2536a4",
+    "studentId": "23707",
+    "name": "MUHAMMAD NABIL IRSYAD BIN AMALUDIN",
+    "programme": "BITCS",
+    "roomNumber": "HF-418-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "408b3e47ea74c83e9a24",
+    "studentId": "23745",
+    "name": "MUHAMMAD AFIQ AL HAZIQ BIN MUHAMMAD MAHMUD",
+    "programme": "DAIR",
+    "roomNumber": "HF-418-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "00fd15d36d2f16a66b25",
+    "studentId": "22787",
+    "name": "FAHIM UDDIN CHOWDHURY",
+    "programme": "BBIOT",
+    "roomNumber": "HF-419-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "e0d96b05b48a838e79d5",
+    "studentId": "23126",
+    "name": "TAN LE XUAN",
+    "programme": "DIN",
+    "roomNumber": "HF-420-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "bea19254a3bf84c0eb3a",
+    "studentId": "23582",
+    "name": "ONG ZHEN HAO",
+    "programme": "DAIR",
+    "roomNumber": "HF-420-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "b55821e8898976d034a5",
+    "studentId": "23412",
+    "name": "MUHAMMAD SYAHMI BIN ABDUL HAMID",
+    "programme": "DIN",
+    "roomNumber": "HF-421-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "28ac5fcd490256364d5f",
+    "studentId": "23257",
+    "name": "MUHAMMAD FAKHRUSY SYAKIRIN BIN ZAMAZIRAL",
+    "programme": "DIN",
+    "roomNumber": "HF-421-2",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "4aa6530a630947b8c9c7",
+    "studentId": "23164",
+    "name": "KU AHMAD HAIQAL BIN KU MOHD HAZIZI",
+    "programme": "DIN",
+    "roomNumber": "HF-422-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "53aed220e0d9f54cd327",
+    "studentId": "23550",
+    "name": "REZAUL HISYAM BIN HAMZAH",
+    "programme": "FIS",
+    "roomNumber": "HF-424-1",
+    "gender": "Male",
+    "status": "Local",
+    "block": "HF"
+  },
+  {
+    "id": "2b783d92274985fff8c9",
+    "studentId": "23367",
+    "name": "HARUDA MOHAMED MUFTAH SALEH",
+    "programme": "BITS",
+    "roomNumber": "HF-425-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "49ad4e5259268f6892e2",
+    "studentId": "20432",
+    "name": "FAISARY JAMALDIN RWEHUMBIZA",
+    "programme": "DAIR",
+    "roomNumber": "HF-427-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "ab10150b645fa7652663",
+    "studentId": "23499",
+    "name": "CHEN CHIWEN  **reg for 2513",
+    "programme": "IEP/BAAF",
+    "roomNumber": "HF-501-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "c9f70599df9eda4fa344",
+    "studentId": "23430",
+    "name": "LIU JIACHENG *reg for 2513",
+    "programme": "IEP/BAAFN",
+    "roomNumber": "HF-502-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "2841f4285bac54c889bf",
+    "studentId": "20212",
+    "name": "XIE RUIQIANG",
+    "programme": "BBAMK",
+    "roomNumber": "HF-503-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "9a8110d3d8657d4823f9",
+    "studentId": "20216",
+    "name": "YANG GUANGSHENG",
+    "programme": "BIT",
+    "roomNumber": "HF-503-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "b053967076dc9cb7f771",
+    "studentId": "21161",
+    "name": "ZHANG BOJUN",
+    "programme": "BBA",
+    "roomNumber": "HF-505-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "02f583579038f17ec47b",
+    "studentId": "20402",
+    "name": "ZHANG JINYU",
+    "programme": "BBA",
+    "roomNumber": "HF-506-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "5f6b892ea3baf1b57165",
+    "studentId": "17888",
+    "name": "HAN RUIZE",
+    "programme": "BABHM",
+    "roomNumber": "HF-507-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "cb5e9c7f67e64347ba29",
+    "studentId": "23558",
+    "name": "CHEN FENG",
+    "programme": "MED",
+    "roomNumber": "HF-508-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "3dd134e0ec4b4f728192",
+    "studentId": "23077",
+    "name": "ZHANG HUAJUN",
+    "programme": "BABHM",
+    "roomNumber": "HF-509-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "a262ae4c4cc1c6a4deed",
+    "studentId": "23401",
+    "name": "LIU YOUJIA",
+    "programme": "BITC",
+    "roomNumber": "HF-515-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "3bbf3ff7e62c7eb91fe0",
+    "studentId": "23559",
+    "name": "LIU YUMING   **avoid roomate if possible (WFIT)  *reg for 2513",
+    "programme": "IEP/MIT",
+    "roomNumber": "HF-517-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "d9a863d909e89772c789",
+    "studentId": "23214",
+    "name": "SAKAI Kousei (Kyorin)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-518-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "93ae500d2de0b8616ada",
+    "studentId": "23215",
+    "name": "YAMAMOTO Kanta (Kyorin)",
+    "programme": "BBAIB",
+    "roomNumber": "HF-519-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "0c0c5b8e258a8b2738f3",
+    "studentId": "21842",
+    "name": "MIR KHUBAYEB ALI  *avoid bangladeshi roommate",
+    "programme": "BITCS",
+    "roomNumber": "HF-520-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "03fd99deeef90c9b2085",
+    "studentId": "23411",
+    "name": "EMADELDIN MOHAMEDSALIH ABDELGHANI MOHA  *reg for 2513",
+    "programme": "IEP/BIT",
+    "roomNumber": "HF-523-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "3108ad3cf5bf0fb74969",
+    "studentId": "23662",
+    "name": "ZHOU ZEANG",
+    "programme": "MED",
+    "roomNumber": "HF-524-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "1adeb5b31261f8fac315",
+    "studentId": "23665",
+    "name": "YANG FAN",
+    "programme": "MBAMG",
+    "roomNumber": "HF-527-1",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "cfbc3093f361b8154b92",
+    "studentId": "23634",
+    "name": "LI HONGLI",
+    "programme": "BBIOT",
+    "roomNumber": "HF-527-2",
+    "gender": "Male",
+    "status": "International",
+    "block": "HF"
+  },
+  {
+    "id": "b410d00ff10b8a63c493",
+    "studentId": "21159",
+    "name": "CHAN KOR HUI",
+    "programme": "DACC",
+    "roomNumber": "HH-108-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "28f29193c7cddc84fa01",
+    "studentId": "STAFF",
+    "name": "SITI HAJJAH AISYAH (CI STAFF)",
+    "programme": "Unknown",
+    "roomNumber": "HH-110-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "1051fd08907f73e8eeef",
+    "studentId": "23494",
+    "name": "NOR MAYSATUL IKMA BINTI HERMAN",
+    "programme": "DIN",
+    "roomNumber": "HH-116-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "7f62829f316b90f6dc36",
+    "studentId": "23471",
+    "name": "ZHAO RUIQING (WFIT)  **spare room due to personal emotion concern/Choi 18nov",
+    "programme": "BBAIB",
+    "roomNumber": "HH-201-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "f1fe3a6d25709f5f4fae",
+    "studentId": "STAFF",
+    "name": "WEIFING STAFF",
+    "programme": "Unknown",
+    "roomNumber": "HH-205-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "b0252956c26bcb16e0b0",
+    "studentId": "STAFF",
+    "name": "WEIFING STAFF",
+    "programme": "Unknown",
+    "roomNumber": "HH-205-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "6a1bd8e38fe3c439b30f",
+    "studentId": "STAFF",
+    "name": "WEIFING STAFF",
+    "programme": "Unknown",
+    "roomNumber": "HH-207-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "bd9aedf221d4365d4a70",
+    "studentId": "STAFF",
+    "name": "WEIFING STAFF",
+    "programme": "Unknown",
+    "roomNumber": "HH-207-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "d7daad0d27e137a30ad4",
+    "studentId": "23443",
+    "name": "NING LIANGYU (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-217-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "f223151f6d81313c6e95",
+    "studentId": "23446",
+    "name": "SHAO YILIN  (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-217-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "012387cbc5c4e7c409f0",
+    "studentId": "23441",
+    "name": "HOU WENGBIN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-218-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "d31cb87a1ee0ae15e058",
+    "studentId": "23465",
+    "name": "XUYIZHEN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-218-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "f58c596b2935d6d23ef2",
+    "studentId": "23471",
+    "name": "ZHAO RUIQING (WFIT)  **spare room at HH201 due to emotional concern/Choi 18nov",
+    "programme": "BBAIB",
+    "roomNumber": "HH-219-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "fa99fd755a4daded980e",
+    "studentId": "23460",
+    "name": "WANG XINRAN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-220-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "42b7639332c544229636",
+    "studentId": "23445",
+    "name": "QU HUICUI (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-220-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "4c9ad0c3fa7380f20d97",
+    "studentId": "23449",
+    "name": "SU XINYUE (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-221-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "274e12e7d9a626fdf9a2",
+    "studentId": "23448",
+    "name": "LI XIAONAN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-221-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "0bec985f286a1be2686a",
+    "studentId": "23470",
+    "name": "YU MENGLIN  (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-222-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "3c4ffb901ce1894bccb8",
+    "studentId": "23462",
+    "name": "MENG SHUYU (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-222-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "67bac65969514349ee7f",
+    "studentId": "23444",
+    "name": "LI SHUHAN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-223-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "d1e145dbc7eeda8c3958",
+    "studentId": "23466",
+    "name": "XUE XINYI (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-223-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "273e317b95713b3d1063",
+    "studentId": "21201",
+    "name": "LIAO LINWEN   *going to check out end october/choi",
+    "programme": "MED",
+    "roomNumber": "HH-224-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "002989caa82d601ea7e6",
+    "studentId": "23450",
+    "name": "LI XINRAN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-225-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "701093f4d784015d4e58",
+    "studentId": "23464",
+    "name": "XU XIAOZHUO (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-225-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "15c50b4fd1e35827dedd",
+    "studentId": "23464",
+    "name": "XU XIAOZHUO (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-226-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "53e908fe434c5601e500",
+    "studentId": "23451",
+    "name": "LI YUXUAN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-227-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "29e4118a139f1011529d",
+    "studentId": "23447",
+    "name": "SONG JINGWEN (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-227-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "c244f43aefab2e28e94c",
+    "studentId": "23442",
+    "name": "LI CHANG (WFIT)",
+    "programme": "BBAIB",
+    "roomNumber": "HH-229-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "19a06eeccc8521599c8b",
+    "studentId": "STAFF",
+    "name": "JULIA (WFIT)",
+    "programme": "Unknown",
+    "roomNumber": "HH-231-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "07a5027ded78a96a059a",
+    "studentId": "23265",
+    "name": "JESSLINDA ANNE A/P JOSHEP",
+    "programme": "DIN",
+    "roomNumber": "HH-301-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "166eeb7989b6173519be",
+    "studentId": "21146",
+    "name": "LIM JIA WEI      **temporarty stay due to AC water leaking at HH303",
+    "programme": "BAAF",
+    "roomNumber": "HH-302-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "c45a412c078726b4fd9a",
+    "studentId": "21075",
+    "name": "EVA MEI XIN HO            **temporarty stay due to AC water leaking at HH303",
+    "programme": "BBIOT",
+    "roomNumber": "HH-302-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "b6f426cd8d686029961e",
+    "studentId": "21146",
+    "name": "LIM JIA WEI",
+    "programme": "BAAF",
+    "roomNumber": "HH-303-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "5e31d043be9fc42753ba",
+    "studentId": "21075",
+    "name": "EVA MEI XIN HO",
+    "programme": "BBIOT",
+    "roomNumber": "HH-303-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "fe975b7dab6faefe5b21",
+    "studentId": "23190",
+    "name": "AARTHINE A/P THANGATHURAI",
+    "programme": "DIN",
+    "roomNumber": "HH-304-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "5e6427ef17d532100e44",
+    "studentId": "23045",
+    "name": "MAS MIA TUETA DIANA",
+    "programme": "DAIR",
+    "roomNumber": "HH-305-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "156e5709221228ff914f",
+    "studentId": "22840",
+    "name": "CHONG YOKE FONG",
+    "programme": "DOHOTM",
+    "roomNumber": "HH-305-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "a2f3a762c1227312cf26",
+    "studentId": "21088",
+    "name": "SREYA MOSTAFA  (JUNE 25 - LONG SEM)    **extend till Nov for OJT/Choi  5 Nov",
+    "programme": "DAIR",
+    "roomNumber": "HH-306-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "b9602ef925cc2bf97817",
+    "studentId": "22092",
+    "name": "HETHIKA HARIDHARAN",
+    "programme": "DAIR",
+    "roomNumber": "HH-306-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "1668de1c1a81c9736831",
+    "studentId": "21103",
+    "name": "SAM LOK XIN",
+    "programme": "DBA",
+    "roomNumber": "HH-307-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "e259ccd52142b7b09a0e",
+    "studentId": "21158",
+    "name": "EMELY KIAN A/P SANUSI",
+    "programme": "DBA",
+    "roomNumber": "HH-307-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "fc99cd7c83479cecc03a",
+    "studentId": "22781",
+    "name": "HRIDE ASA GHOSH   **avoid roommate if possible/choi",
+    "programme": "BSN",
+    "roomNumber": "HH-308-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "b0c2af60fa5e32dd0b3b",
+    "studentId": "23433",
+    "name": "DUDE THANDEKA",
+    "programme": "DIN",
+    "roomNumber": "HH-309-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "cc7b8f11cd6da6b3d872",
+    "studentId": "23610",
+    "name": "MAINA JANET WANGECI",
+    "programme": "DBA",
+    "roomNumber": "HH-309-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "ebf46788b18185a331c2",
+    "studentId": "20482",
+    "name": "SUNEHA RAVI - ( will settle full fees before 5th december 2025 )",
+    "programme": "BIT",
+    "roomNumber": "HH-310-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "55207f5ebb4fe488609f",
+    "studentId": "22032",
+    "name": "FERDAUS JANNATUL",
+    "programme": "DAIR",
+    "roomNumber": "HH-311-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "b648666c0b3351076354",
+    "studentId": "23648",
+    "name": "SEEMA KUMARI MAHATO",
+    "programme": "IEP/DAIR",
+    "roomNumber": "HH-312-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "9cd7a79388949e480fc7",
+    "studentId": "23160",
+    "name": "SHARVINI A/P MAGESWARAN",
+    "programme": "DIN",
+    "roomNumber": "HH-314-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "fa4c3d563e9d6a18ded1",
+    "studentId": "20446",
+    "name": "Durga Varshini a/p Mahendran",
+    "programme": "DBA",
+    "roomNumber": "HH-314-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "2b159c0c4e6325947c99",
+    "studentId": "23663",
+    "name": "KIRTHIEKA A/P VELAYUTHAM",
+    "programme": "BAAF",
+    "roomNumber": "HH-315-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "57804eda0c6eb3a611f3",
+    "studentId": "23743",
+    "name": "DANEESHA A/P THURAIBALAN",
+    "programme": "BBAF",
+    "roomNumber": "HH-315-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9f2ce5b7a635dda132ab",
+    "studentId": "23178",
+    "name": "NORHAZWANI BINTI ABDUL SABRIN",
+    "programme": "DIN",
+    "roomNumber": "HH-316-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "a41a3a394be9d96973de",
+    "studentId": "23524",
+    "name": "NUR IZZATI BATRISYIA BINTI IBEE RIZAL",
+    "programme": "DIN",
+    "roomNumber": "HH-316-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "3fa291401c2c27afe80f",
+    "studentId": "23261",
+    "name": "NUR FARISHA  ALYA BINTI AHMAD FARIZUDDIN",
+    "programme": "DIN",
+    "roomNumber": "HH-317-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "59e46cba2abc6500fb59",
+    "studentId": "23117",
+    "name": "SITI ROHAIZA BIN MOHD HASRUL",
+    "programme": "DIN",
+    "roomNumber": "HH-317-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "30f1ca53b9a041d5f06a",
+    "studentId": "23264",
+    "name": "CHANELLE ANN LEE SHUET YEE",
+    "programme": "DIN",
+    "roomNumber": "HH-318-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "760072d4d028405b0cf3",
+    "studentId": "23335",
+    "name": "CHLOE LAM YAN YEE",
+    "programme": "DIN",
+    "roomNumber": "HH-318-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "21d5f52f730269bd73d2",
+    "studentId": "23323",
+    "name": "NUR HIDAYAH BINTI ABDUL ZHOOHIR",
+    "programme": "DIN",
+    "roomNumber": "HH-319-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9e752adcf707b98bb00e",
+    "studentId": "23259",
+    "name": "NUR FARAH AIN BINTI NAZEL ZAFIAN",
+    "programme": "DIN",
+    "roomNumber": "HH-319-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "64b5670dfb4589a8f552",
+    "studentId": "23388",
+    "name": "TANG YU YING",
+    "programme": "DIN",
+    "roomNumber": "HH-320-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "fd6f2f5349d0305fb370",
+    "studentId": "23131",
+    "name": "CH'NG YOU XUAN",
+    "programme": "DIN",
+    "roomNumber": "HH-320-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "b85caf04fac2f43a9530",
+    "studentId": "23205",
+    "name": "NURBALQIS JANNAH BINTI BOIMAN",
+    "programme": "DIN",
+    "roomNumber": "HH-321-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "287eda347bec7451ac50",
+    "studentId": "23258",
+    "name": "NUR'AFIFAH ZAHIRAH BINTI MOHD HANAFIAH",
+    "programme": "DIN",
+    "roomNumber": "HH-322-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "bb0ba590d96596e1cb99",
+    "studentId": "23555",
+    "name": "AINA AKMAL BINTI ZULKEPLE",
+    "programme": "DIN",
+    "roomNumber": "HH-322-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "f61281b3640a00267921",
+    "studentId": "23116",
+    "name": "QAISARA BALQIS BINTI MOHD FARIZAN",
+    "programme": "DIN",
+    "roomNumber": "HH-323-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "21adad2fdcd7cd3e63c8",
+    "studentId": "23253",
+    "name": "NUR AQILAH BINTI RAHIMI",
+    "programme": "DIN",
+    "roomNumber": "HH-323-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "1cf1637344e6798ed0f1",
+    "studentId": "23130",
+    "name": "NURUL ANATASYAH BINTI YUSRI",
+    "programme": "DIN",
+    "roomNumber": "HH-324-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "29a2d4cdf5d0278335e7",
+    "studentId": "23250",
+    "name": "NUR AIN HUMAIRAH BINTI MD SUFAN",
+    "programme": "DIN",
+    "roomNumber": "HH-324-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "34d62bdbfb715f4d1c88",
+    "studentId": "23325",
+    "name": "ANNUR NAFISHA BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HH-325-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "36faea7a80e62cdc0331",
+    "studentId": "23310",
+    "name": "NUR ANIS ARISYA BINTI ZUKRI",
+    "programme": "DIN",
+    "roomNumber": "HH-325-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "89c268c2b9012fbe0eea",
+    "studentId": "23715",
+    "name": "NUR SYAH AIN BINTI MOHD LEE",
+    "programme": "FIS",
+    "roomNumber": "HH-326-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "371179577f626f97491b",
+    "studentId": "23510",
+    "name": "IRFASHA AZITA BINTI AZNAN",
+    "programme": "DIN",
+    "roomNumber": "HH-326-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "f3068e162b49ccb416ea",
+    "studentId": "23345",
+    "name": "CITI NURKRISHDIANTY BINTI JASON",
+    "programme": "DIN",
+    "roomNumber": "HH-327-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "4faa12915f4b1a0052df",
+    "studentId": "23347",
+    "name": "ERNY NABILAH BINTI IDRIS",
+    "programme": "DIN",
+    "roomNumber": "HH-327-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "f2582975c841d8e60fab",
+    "studentId": "238207",
+    "name": "NURALIAH MAISARAH BINTI MD YUSSRI",
+    "programme": "DIN",
+    "roomNumber": "HH-328-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "ce5c05a364f52bc36499",
+    "studentId": "23607",
+    "name": "TAHSINA BEGAM BINTI MOHD FARID JAYAKUMAR",
+    "programme": "DBA",
+    "roomNumber": "HH-328-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "ce2418a0b628334f3837",
+    "studentId": "23690",
+    "name": "KHESYINI A/P NARAYANASAMY",
+    "programme": "DCA",
+    "roomNumber": "HH-329-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "7e08273590b68826298e",
+    "studentId": "23703",
+    "name": "DHURGA DEVI A/P GOBINATH",
+    "programme": "BCSAI",
+    "roomNumber": "HH-329-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "c323c1817d055bef6740",
+    "studentId": "20798",
+    "name": "CHONG  JIA XUAN  (SOCIAL PHOBIA, no sharing)",
+    "programme": "BBIOT",
+    "roomNumber": "HH-401-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "8f3b1bf893c6461f1d3c",
+    "studentId": "21195",
+    "name": "QAHIRA",
+    "programme": "DBA",
+    "roomNumber": "HH-402-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "97fd6c42b0bb39c1290d",
+    "studentId": "21432",
+    "name": "DARISHINI A/P RAVINDRAN NAIDU",
+    "programme": "DCA",
+    "roomNumber": "HH-402-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "3979627b8cb7111e55fe",
+    "studentId": "21171",
+    "name": "YAP KAH YIENG",
+    "programme": "DCS",
+    "roomNumber": "HH-403-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "02181700d695f31f0547",
+    "studentId": "22274",
+    "name": "HAHRINY A/P SALVAKUMARAN",
+    "programme": "BIT",
+    "roomNumber": "HH-404-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "29eac8d4ac8b312f36d8",
+    "studentId": "23543",
+    "name": "THURGASHINI A/P DEVENTHIRAN",
+    "programme": "DBA",
+    "roomNumber": "HH-404-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "02c49490c554834c7d2e",
+    "studentId": "22723",
+    "name": "KEERTIGAA A/P VELU",
+    "programme": "BBIOT",
+    "roomNumber": "HH-405-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "25dce10322e6899e034c",
+    "studentId": "23391",
+    "name": "SATHENA A/P AURUL SELVAM",
+    "programme": "FIB",
+    "roomNumber": "HH-405-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "14644c3dee0922968d30",
+    "studentId": "20352",
+    "name": "TEH LEE WAH",
+    "programme": "BBAHR",
+    "roomNumber": "HH-406-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "7a6e70759ec1c05eb687",
+    "studentId": "23303",
+    "name": "MOULINA PERAKASH",
+    "programme": "FIB",
+    "roomNumber": "HH-406-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "24ea8b0d961c12cd13ef",
+    "studentId": "21991",
+    "name": "CRISTA RAELENE A/P REUBEN",
+    "programme": "BBA",
+    "roomNumber": "HH-407-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9217078cbaff5e6ab3bd",
+    "studentId": "22717",
+    "name": "MISHAA A/P VIJAYAKUMAR",
+    "programme": "BBAIB",
+    "roomNumber": "HH-407-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "786fe7a595b96ed3f65d",
+    "studentId": "22240",
+    "name": "NISHA A/P DURAI RAJ",
+    "programme": "BBA",
+    "roomNumber": "HH-408-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "6c3329442110f1db060e",
+    "studentId": "22204",
+    "name": "DEVINDRA SAMMY A/P JOSHUA",
+    "programme": "DIN",
+    "roomNumber": "HH-408-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9d8f92de75a9b83e564f",
+    "studentId": "22041",
+    "name": "LEE LIN XIN",
+    "programme": "DAIR",
+    "roomNumber": "HH-409-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "d44ac76823edc77f76b6",
+    "studentId": "23461",
+    "name": "SHARMINI A/P SUBRAMANIAM",
+    "programme": "FIS",
+    "roomNumber": "HH-410-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "c34635acdee3ad1553e9",
+    "studentId": "23139",
+    "name": "PRISSCA PRITTI A/P LUCAS",
+    "programme": "FIS",
+    "roomNumber": "HH-410-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "b5193e20a6e42daf253d",
+    "studentId": "23378",
+    "name": "KUNALINI A/P SELVARAJOO",
+    "programme": "FIB",
+    "roomNumber": "HH-411-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "077607371a51bd2c312f",
+    "studentId": "23544",
+    "name": "YOGESWARI A/P TAMILSELVAN",
+    "programme": "FIB",
+    "roomNumber": "HH-411-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "85baa43b30f596c8bd56",
+    "studentId": "23379",
+    "name": "ARINA ASYURAH BNTI ATRIAN",
+    "programme": "DIN",
+    "roomNumber": "HH-412-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "5155f1300e34e6908148",
+    "studentId": "23390",
+    "name": "NURIN ATIQAH SYUHAIDAH BINTI RAMLIE",
+    "programme": "FIS",
+    "roomNumber": "HH-412-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "b6f0aa06847a3dd8c379",
+    "studentId": "21177",
+    "name": "SARAH YASMIN BINTI JAMALLUDDIN",
+    "programme": "BBAHR",
+    "roomNumber": "HH-413-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "4de28c5387c6cb29dc6c",
+    "studentId": "19699",
+    "name": "VINEETHA RANI RETHINASAMY",
+    "programme": "BBAHR",
+    "roomNumber": "HH-413-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "2aa66f029df347cbb4ea",
+    "studentId": "23860",
+    "name": "RUBINI A/P MUTHU",
+    "programme": "DIN",
+    "roomNumber": "HH-414-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "4c685763bb63fcf0fbc8",
+    "studentId": "23452",
+    "name": "NIVAASHINI A/P M MOORTHY",
+    "programme": "FIB",
+    "roomNumber": "HH-414-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "d41d5b68643a388522fd",
+    "studentId": "21157",
+    "name": "HEERINI A/P MURUGAN",
+    "programme": "BBAHR",
+    "roomNumber": "HH-415-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "d037017bc1d3815fd360",
+    "studentId": "23399",
+    "name": "PRITIKHA A/P JEEVAN",
+    "programme": "FIB",
+    "roomNumber": "HH-415-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "c96d6f6df76483eb7e46",
+    "studentId": "22818",
+    "name": "SITI NURAINA DAYANA BINTI ROZAIMY",
+    "programme": "DIN",
+    "roomNumber": "HH-416-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "50200c94dc9cd028dad7",
+    "studentId": "23292",
+    "name": "FATIN NURFATIHAH BINTI YUSRI MUNIR",
+    "programme": "FIS",
+    "roomNumber": "HH-416-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "a8078edf35d28e841f28",
+    "studentId": "23387",
+    "name": "MADHUSSINI A/P SARAVANAN",
+    "programme": "DIN",
+    "roomNumber": "HH-417-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "45d4e6f15b02e2a2cbd3",
+    "studentId": "23568",
+    "name": "KUNAVARSINI A/P LOGESWARAN",
+    "programme": "FIB",
+    "roomNumber": "HH-417-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "64ab5e86646843a5da2a",
+    "studentId": "23422",
+    "name": "NUREEN QISTINA BINTI AMBIAR",
+    "programme": "DIN",
+    "roomNumber": "HH-418-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "13e77c095a1893a1f3a3",
+    "studentId": "23283",
+    "name": "NUR KYRA SHAHIRA EXAURA BINTI MOHD AKBHAR",
+    "programme": "DIN",
+    "roomNumber": "HH-418-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9146310cd45d7c481c98",
+    "studentId": "23308",
+    "name": "NUR AMYLIA BINTI NORHELMY",
+    "programme": "DIN",
+    "roomNumber": "HH-419-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "03ce9a496f38ea184799",
+    "studentId": "23204",
+    "name": "NUR ASMAUL NABIHA BINTI MOHD ASRY",
+    "programme": "DIN",
+    "roomNumber": "HH-419-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "9ddd3ea8f32152e1d158",
+    "studentId": "23293",
+    "name": "ROSSALINDA BINTI SHAMSULHAIMI",
+    "programme": "DCA",
+    "roomNumber": "HH-420-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "0b58ca16ad61ed3db23b",
+    "studentId": "23237",
+    "name": "ZUHAYRA ALESSA BINTI ZUL ANUAR",
+    "programme": "DIN",
+    "roomNumber": "HH-420-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "be2c4271baefed8499e7",
+    "studentId": "23122",
+    "name": "NABILA BINTI OTHMAN",
+    "programme": "DACC",
+    "roomNumber": "HH-421-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "adbe1e552b37fe2e5c49",
+    "studentId": "23264",
+    "name": "CHANELLE ANN LEE SHUET YEE  (moving to HH318/choi 18nov)",
+    "programme": "DIN",
+    "roomNumber": "HH-421-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "0c67aa87c9b81fbf3d5c",
+    "studentId": "23246",
+    "name": "NUR AYUNI ZULAIKHA BINTI KASWADI",
+    "programme": "DIN",
+    "roomNumber": "HH-422-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "bba4a83b154a48351eaa",
+    "studentId": "23163",
+    "name": "ALEEYA NUR DINIY BINTI ABD SHUKOR",
+    "programme": "DIN",
+    "roomNumber": "HH-422-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "dc24ef482951d48e5bad",
+    "studentId": "23027",
+    "name": "WAN ANIS HANNANI BINTI WAN AZIZ",
+    "programme": "DIN",
+    "roomNumber": "HH-423-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "e6fe0eadb93f857003e0",
+    "studentId": "23094",
+    "name": "NUR NATALIA BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HH-423-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "1e3fb56529f743d4d286",
+    "studentId": "23239",
+    "name": "NOOR HUSNINA MAWADDAH BINTI MOHD GHANI",
+    "programme": "DIN",
+    "roomNumber": "HH-424-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "940ac388aeeb6ce50e20",
+    "studentId": "23428",
+    "name": "PUTERI NURNATASHAZ KEFLIN BINTI ABDULLAH",
+    "programme": "DIN",
+    "roomNumber": "HH-424-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "7c885c9db63809ca7d16",
+    "studentId": "22548",
+    "name": "AIMI SAFFIYA BINTI ZAMRI",
+    "programme": "FIS",
+    "roomNumber": "HH-425-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "a3641335cfb26cac713d",
+    "studentId": "23161",
+    "name": "ANYCCHAM A/P RAVI SANGAR",
+    "programme": "DIN",
+    "roomNumber": "HH-425-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "0864632ae66457603843",
+    "studentId": "23242",
+    "name": "NOR SYUHADA BINTI MOHD SOBRI",
+    "programme": "DIN",
+    "roomNumber": "HH-426-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "8a3f9d0d7176ae697f97",
+    "studentId": "22232",
+    "name": "NUR IZZATI BINTI ABD RASHID",
+    "programme": "DIN",
+    "roomNumber": "HH-427-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "1e062b597ee9ca8377b4",
+    "studentId": "23749",
+    "name": "NUR DAMIA' NISRINA BINTI ROSLAN",
+    "programme": "DIN",
+    "roomNumber": "HH-428-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "d0c743255216d02c230e",
+    "studentId": "23748",
+    "name": "NOOR AMIRAH MYSARA BINTI NOOR AZAM",
+    "programme": "DIN",
+    "roomNumber": "HH-428-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "3394775eab521e41f5fe",
+    "studentId": "22209",
+    "name": "NATALIE ELLY BINTI NEREUS",
+    "programme": "DIN",
+    "roomNumber": "HH-429-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "b70f79de21e282764b37",
+    "studentId": "22185",
+    "name": "AIN NUR HALIMAH BINTI SAMSOLBAHAR",
+    "programme": "DIN",
+    "roomNumber": "HH-429-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "e7524e00d2edb3b8d74a",
+    "studentId": "22208",
+    "name": "WAN NURUL FATIHAH BINTI WAN MOHAMMAD",
+    "programme": "DIN",
+    "roomNumber": "HH-431-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "dfd909a27746d31b7565",
+    "studentId": "22202",
+    "name": "DANIYAH NAJWA BT SYAMSUL",
+    "programme": "DIN",
+    "roomNumber": "HH-431-2",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "e6724bf511bf5b78475b",
+    "studentId": "22922",
+    "name": "LIN YILIN",
+    "programme": "MED",
+    "roomNumber": "HH-505-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "4171bc1bcc270656dfe6",
+    "studentId": "23661",
+    "name": "ZHU TONG",
+    "programme": "Unknown",
+    "roomNumber": "HH-506-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "3bb1188671b0a1907d73",
+    "studentId": "22420",
+    "name": "WU ZHIYONG  **student plan to defer study. key not yet return/Choi 17nov",
+    "programme": "MBA",
+    "roomNumber": "HH-509-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "7217fbc4d90eea541fc5",
+    "studentId": "19819",
+    "name": "LI SHUAIYAO",
+    "programme": "BBA",
+    "roomNumber": "HH-511-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "ea759cfcbb049c6b96ae",
+    "studentId": "23162",
+    "name": "LAI PEI YING",
+    "programme": "FIS",
+    "roomNumber": "HH-512-1",
+    "gender": "Female",
+    "status": "Local",
+    "block": "HH"
+  },
+  {
+    "id": "f3d02ff4a2ced25aea9e",
+    "studentId": "22933",
+    "name": "LI CHENYIHUI",
+    "programme": "MBA",
+    "roomNumber": "HH-513-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "deada735753560ee51a2",
+    "studentId": "23016",
+    "name": "WEI XUAN",
+    "programme": "MBA",
+    "roomNumber": "HH-515-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "fd213b7af5ff3ed10322",
+    "studentId": "21865",
+    "name": "BAN CHENGCHENG",
+    "programme": "MED",
+    "roomNumber": "HH-517-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "8f56f4f2380b6f00d803",
+    "studentId": "23354",
+    "name": "GAO JINYING",
+    "programme": "BBAHM",
+    "roomNumber": "HH-520-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "35df20d72bb134270c7b",
+    "studentId": "23580",
+    "name": "SHEN ZI QIU",
+    "programme": "IEP/MBA",
+    "roomNumber": "HH-521-2",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "b07122163975f70cd25b",
+    "studentId": "22833",
+    "name": "WANG YANWEN",
+    "programme": "IEP/BHMBM",
+    "roomNumber": "HH-523-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  },
+  {
+    "id": "040adac5a58ea682b3a5",
+    "studentId": "19235",
+    "name": "LIU ZIYUE    (long-long sem)",
+    "programme": "BSN",
+    "roomNumber": "HH-527-1",
+    "gender": "Female",
+    "status": "International",
+    "block": "HH"
+  }
+]
