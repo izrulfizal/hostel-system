@@ -13,7 +13,8 @@ interface TopNavProps {
 
 const links = [
   { href: '/dashboard', label: 'Dashboard' },
-  { href: '/students', label: 'Students' }
+  { href: '/students', label: 'Students' },
+  { href: '/scan', label: 'Scanner' }
 ];
 
 export default function TopNav({ onLogout, userName, userRole }: TopNavProps) {
